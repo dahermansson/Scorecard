@@ -28,22 +28,41 @@
             }
             @if (hole.Key == 9 && ActiveGame.Course.Holes.Count == 18)
             {
-                <div class="summa">Tot slag</div>
+                <div class="summa">Sum out</div>
                 @foreach (var player in ActiveGame.Players)
                 {
-                    <div class="playerSum">@player.Strokes.Where(t => t.Key < 10).Sum(t => t.Value)</div>
+                    <div class="player-result">
+                        <label>@player.Strokes.Where(t => t.Key < 10).Sum(t => t.Value)</label>
+                        <label style="padding-left: 0.8rem;">@player.Stableford.Where(t => t.Key < 10).Sum(t => t.Value)</label>
+                    </div>
                 }
             }
         }
-        <div class="summa">Tot slag</div>
+        @if(ActiveGame.Course.Holes.Count == 18)
+        {
+            <div class="summa">Sum in</div>
+            @foreach (var player in ActiveGame.Players)
+            {
+                <div class="player-result">
+                    <label>@player.Strokes.Where(t => t.Key > 9).Sum(t => t.Value)</label>
+                    <label style="padding-left: 0.8rem;">@player.Stableford.Where(t => t.Key > 9).Sum(t => t.Value)</label>
+                </div>
+            }
+        }
+        <div class="summa">Tot</div>
         @foreach (var player in ActiveGame.Players)
         {
-            <div class="playerSum">@player.Strokes.Sum(t => t.Value)</div>
+            <div class="player-result">
+                <label>@player.Strokes.Sum(t => t.Value)</label>
+                <label style="padding-left: 0.8rem;">@player.Stableford.Sum(t => t.Value)</label>
+            </div>
         }
     </div>
+    <!--
     <pre>
         @JsonSerializer.Serialize(ActiveGame.Players, new JsonSerializerOptions{ WriteIndented = true})
-        </pre>
+    </pre>
+    -->
 }
 else
 {

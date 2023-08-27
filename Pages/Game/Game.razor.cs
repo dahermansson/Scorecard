@@ -30,10 +30,14 @@ public partial class Game
             player.Strokes.Remove(hole);
             player.Stableford.Remove(hole);
         }
+        PersistGame();
     }
 
-    private void SetStableford(Player player, int hole, int strokes)
+    private void PersistGame()
     {
-        var index = ActiveGame.Course.Holes[hole].Index;
+        if (ActiveGame != null)
+        {
+            GameService.SetGame(ActiveGame);
+        }
     }
 }

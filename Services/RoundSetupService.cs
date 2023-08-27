@@ -29,11 +29,16 @@ public class RoundSetupService : IRoundSetupService
     public async Task<Guid> CreateGame(Club club, string courseId, List<PlayerVM> playerVMs)
     {
         var game = new Game(club.Courses.Single(t => t.ID == courseId), playerVMs);
-        var games = await _localStorage.GetItemAsync<Dictionary<Guid, string>>(GamesIndexKey);
+        var games = await _localStorage.GetItemAsync<Dictionary<Guid, string>>(GamesIndexKey) ?? new Dictionary<Guid, string>();
         games.Add(game.GameId, game.GameName);
         await _localStorage.SetItemAsync(GamesIndexKey, games);
         await _localStorage.SetItemAsync(game.GameId.ToString(), game);
         return game.GameId;
+    }
+
+    public async Task SetGame(Game game)
+    {
+        await _localStorage.SetItemAsync(game.GameId.ToString(), game);
     }
 
     public async Task<Game> GetGame(Guid gameId)
@@ -42,7 +47,7 @@ public class RoundSetupService : IRoundSetupService
     }
     public async Task<List<(string Game, Guid GameId)>> GetGames()
     {
-        return (await _localStorage.GetItemAsync<Dictionary<Guid, string>>(GamesIndexKey)).Select(t => (Game: t.Value, GameId: t.Key)).ToList();
+        return (await _localStorage.GetItemAsync<Dictionary<Guid, string>>(GamesIndexKey))?.Select(t => (Game: t.Value, GameId: t.Key)).ToList() ?? new List<(string Game, Guid GameId)>();   
     }
 
     public int CalculatePlayersCourseHcp(double hcp, int par, double cr, int sr) => (int)(hcp * (sr / 113.0) + (cr - par) + 0.5);

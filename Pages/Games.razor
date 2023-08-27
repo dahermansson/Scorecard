@@ -1,0 +1,19 @@
+﻿@page "/games"
+@using Scorecard.Components.Player
+
+<PageTitle>Games</PageTitle>
+<h1>Created games</h1>
+
+@if(SavedGames == null)
+{
+    <label>Loading games...</label>
+}
+else
+{
+    <div class="games-grid">
+        @foreach (var game in SavedGames)
+        {
+            <div class=""><NavLink href=@string.Format("/game/{0}", game.GameId) >@game.Game</NavLink></div>
+        }
+</div>
+}

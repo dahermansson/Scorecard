@@ -5,9 +5,9 @@ public class Game
 {
     public List<Player> Players { get; set; }
     public Course Course { get; set; }
-    public Guid GameId { get;}
+    public Guid GameId { get; set; }
     public string GameName { get; set; }
-    public DateTime Created { get;}
+    public DateTime Created { get; set; }
     public Game()
     {
 
@@ -19,6 +19,6 @@ public class Game
         Players = playerVMs.Select(p => new Player(p.Name, p.Hcp!.Value, p.CourseHcp)).ToList();
         GameId = Guid.NewGuid();
         Created= DateTime.Now;
-        GameName = $"Course-Name {DateTime.Now.ToLocalTime()} {Players.Count} Players";
+        GameName = $"{Course.Name} {DateTime.Now.ToShortDateString()} {DateTime.Now.ToShortTimeString()} {Players.Count} Players";
     }
 }

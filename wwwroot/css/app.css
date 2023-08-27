@@ -165,3 +165,7 @@ a, .btn-link {
     appearance: none;
     width: 2rem;
 }
+
+.games-grid{
+    display: grid;
+}
