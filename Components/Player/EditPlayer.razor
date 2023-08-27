@@ -1,0 +1,26 @@
+﻿<h2>Add Player</h2>
+<div class="edit-player-grid">
+    <label for="name">Name:</label>
+    <input class="form-control" id="name" @bind="Player.Name" />
+    <div class="edit-player-grid edit-player-hcp-gender">
+        <label for="name">Hcp:</label>
+        <InputNumber TValue="double?" class="form-control" id="hcp" @bind-Value="Player.Hcp" />
+        <label for="name">Gender:</label>
+        <select @bind="Player.Gender">
+            <option value="men">Men</option>
+            <option value="women">Woman</option>
+        </select>
+    </div>
+    <label for="tee">Tee: </label>
+    <select disabled="@string.IsNullOrEmpty(Player.Gender)" class="form-control" id="tee" @bind="Player.Tee">
+        @if (Player.Gender != string.Empty) {
+            <option value="">Select Tee</option>
+            @foreach (var tee in (Player.Gender == "men" ? Ratings.Men : Ratings.Women).Where(t => t.Value.CR != null))
+            {
+                <option value="@tee.Key">@tee.Key</option>
+            }
+        }
+    </select>
+</div>
+
+<button class="btn btn-primary" @onclick="AddPlayer" disabled="@(!IsValid)">Add player</button>

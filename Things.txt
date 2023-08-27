@@ -1,0 +1,8 @@
+Index (gameservice)
+	- Create game -> Make activ
+	- list games -> Select active
+Score (scoreService)
+	(GameState)
+	- Take score
+	- Persist state
+	- load State

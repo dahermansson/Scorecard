@@ -1,0 +1,53 @@
+﻿@page "/game/{GameId:guid}"
+@using System.Text.Json;
+
+@if (ActiveGame != null)
+{
+    <div class="grid" style="--players:@ActiveGame.Players.Count">
+
+        <div class="header">Hål</div>
+        <div class="header">Idx</div>
+        <div class="header">Par</div>
+        @foreach (var player in ActiveGame.Players)
+        {
+            <div class="header name">@player.Name</div>
+        }
+        @foreach (var hole in ActiveGame.Course.Holes)
+        {
+            <div class="hole">@hole.Key</div>
+            <div class="hole">@hole.Value.Index</div>
+            <div class="hole">@hole.Value.Par</div>
+            @foreach (var player in ActiveGame.Players)
+            {
+                <div class="player-result">
+                    <select class="form-select-sm select-score" @onchange="@((e) => SetStroke(player, int.Parse(e.Value.ToString()), hole.Key))">
+                        <Scorecard.Components.Score.Score Par="@hole.Value.Par"></Scorecard.Components.Score.Score>
+                    </select>
+                    <label>@(player.Stableford.ContainsKey(hole.Key) ? player.Stableford[hole.Key] : "")</label>
+                </div>
+            }
+            @if (hole.Key == 9 && ActiveGame.Course.Holes.Count == 18)
+            {
+                <div class="summa">Tot slag</div>
+                @foreach (var player in ActiveGame.Players)
+                {
+                    <div class="playerSum">@player.Strokes.Where(t => t.Key < 10).Sum(t => t.Value)</div>
+                }
+            }
+        }
+        <div class="summa">Tot slag</div>
+        @foreach (var player in ActiveGame.Players)
+        {
+            <div class="playerSum">@player.Strokes.Sum(t => t.Value)</div>
+        }
+    </div>
+    <pre>
+        @JsonSerializer.Serialize(ActiveGame.Players, new JsonSerializerOptions{ WriteIndented = true})
+        </pre>
+}
+else
+{
+    <label>Game is loading...</label>
+}
+
+

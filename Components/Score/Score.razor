@@ -1,0 +1,4 @@
+﻿@foreach(var stroke in StrokeValues)
+{
+    <option value="@stroke.Value">@string.Format("{0}", stroke.Value, stroke.Label)</option>
+}
