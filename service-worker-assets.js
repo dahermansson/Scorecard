@@ -201,6 +201,10 @@
       "url": "Scorecard.styles.css"
     },
     {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
+    {
       "hash": "sha256-jWxmVL9ycZv3T38dXBG4OUKqtWirzdsMsywDdTY5Ng0=",
       "url": "css\/app.css"
     },
@@ -281,5 +285,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "pjXzdSgC"
+  "version": "zAT4Vwn2"
 };
