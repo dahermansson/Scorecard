@@ -55,7 +55,7 @@ public partial class Index
         if (Club != null)
         {
             var createdGameId = await RoundSetupService.CreateGame(Club, SelectedCourse, Players);
-            NavigationManager.NavigateTo($"/game/{createdGameId}");
+            NavigationManager.NavigateTo($"game/{createdGameId}");
         }
     }
     private void RemovePlayer(string name)
