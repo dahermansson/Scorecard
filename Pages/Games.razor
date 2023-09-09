@@ -13,7 +13,7 @@ else
     <div class="games-grid">
         @foreach (var game in SavedGames)
         {
-            <div class=""><NavLink href=@string.Format("/game/{0}", game.GameId) >@game.Game</NavLink></div>
+            <div class=""><NavLink href=@string.Format("game/{0}", game.GameId) >@game.Game</NavLink></div>
         }
 </div>
 }
