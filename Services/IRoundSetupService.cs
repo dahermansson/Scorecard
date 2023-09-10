@@ -7,6 +7,7 @@ public interface IRoundSetupService
     public Task<Guid> CreateGame(Club club, string courseId, List<PlayerVM> playerVMs);
     public ValueTask<List<ClubVM>> GetClubs();
     public Task<Game> GetGame(Guid gameId);
+    public Task DeleteGame(Guid gameId);
     public Task SetGame(Game game);
     public Task<List<(string Game, Guid GameId)>> GetGames();
     public Task<Club> GetClub(string id);

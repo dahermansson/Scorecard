@@ -18,7 +18,7 @@ public partial class Game
         ActiveGame = await GameService.GetGame(GameId);
     }
 
-    private void SetStroke(Player player, object? value, int hole)
+    private void SetStroke(Models.Player player, object? value, int hole)
     {
         if (value != null && int.TryParse(value.ToString(), out int strokes) && strokes > 0)
         {

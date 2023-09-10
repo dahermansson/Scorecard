@@ -43,7 +43,7 @@
             <div class="summa">Sum in</div>
             @foreach (var player in ActiveGame.Players)
             {
-                <div class="player-result">
+                <div class="player-summa">
                     <label>@player.Strokes.Where(t => t.Key > 9).Sum(t => t.Value)</label>
                     <label style="padding-left: 0.8rem;">@player.Stableford.Where(t => t.Key > 9).Sum(t => t.Value)</label>
                 </div>
@@ -52,17 +52,12 @@
         <div class="summa">Tot</div>
         @foreach (var player in ActiveGame.Players)
         {
-            <div class="player-result">
+            <div class="player-summa">
                 <label>@player.Strokes.Sum(t => t.Value)</label>
                 <label style="padding-left: 0.8rem;">@player.Stableford.Sum(t => t.Value)</label>
             </div>
         }
     </div>
-    <!--
-    <pre>
-        @JsonSerializer.Serialize(ActiveGame.Players, new JsonSerializerOptions{ WriteIndented = true})
-    </pre>
-    -->
 }
 else
 {

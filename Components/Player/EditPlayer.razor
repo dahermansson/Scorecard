@@ -1,5 +1,16 @@
-﻿<h2>Add Player</h2>
-<div class="edit-player-grid">
+﻿<div class="edit-player-grid">
+    <h2>Add Player</h2>
+    <select @onchange="LoadPlayer">
+        <option value="">Select Player</option>
+        @if(Persons != null)
+        {
+            @foreach(var player in Persons)
+            {
+                <option value="@player.Name">@player.Name</option>
+            }
+        }
+    </select>
+
     <label for="name">Name:</label>
     <input class="form-control" id="name" @bind="Player.Name" />
     <div class="edit-player-grid edit-player-hcp-gender">

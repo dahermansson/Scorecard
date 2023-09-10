@@ -1,0 +1,20 @@
+﻿@page "/players"
+@using Scorecard.Components.Player
+
+<PageTitle>Players</PageTitle>
+<h1>Created player</h1>
+
+@if (AllPlayers == null)
+{
+    <label>Loading players...</label>
+}
+else
+{
+    <div class="players-grid">
+        @foreach (var player in AllPlayers)
+        {
+            <div class="">@player.Name</div>
+            <button type="button" class="oi oi-trash" @onclick="() => DeletePlayer(player.Name)"></button>
+        }
+    </div>
+}

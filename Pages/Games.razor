@@ -2,7 +2,7 @@
 @using Scorecard.Components.Player
 
 <PageTitle>Games</PageTitle>
-<h1>Created games</h1>
+<h1>Games</h1>
 
 @if(SavedGames == null)
 {
@@ -14,6 +14,7 @@ else
         @foreach (var game in SavedGames)
         {
             <div class=""><NavLink href=@string.Format("game/{0}", game.GameId) >@game.Game</NavLink></div>
+            <button type="button" class="oi oi-trash" @onclick="() => DeleteGame(game.GameId)"></button>
         }
-</div>
+    </div>
 }

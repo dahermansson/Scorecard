@@ -12,4 +12,10 @@ public partial class Games
     {
         SavedGames = await RoundSetupService.GetGames();
     }
+
+    protected async Task DeleteGame(Guid gameId)
+    {
+        await RoundSetupService.DeleteGame(gameId);
+        SavedGames = await RoundSetupService.GetGames();
+    }
 }

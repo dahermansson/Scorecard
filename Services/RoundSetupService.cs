@@ -83,4 +83,11 @@ public class RoundSetupService : IRoundSetupService
     {
         return new[] { 0, 2 + givenStrokes - strokes }.Max();   
     }
+
+    public async Task DeleteGame(Guid gameId)
+    {
+        var games = await _localStorage.GetItemAsync<Dictionary<Guid, string>>(GamesIndexKey) ?? new Dictionary<Guid, string>();
+        games.Remove(gameId);
+        await _localStorage.SetItemAsync(GamesIndexKey, games);
+    }
 }

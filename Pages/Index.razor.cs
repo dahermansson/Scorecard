@@ -9,6 +9,8 @@ public partial class Index
     [Inject]
     private IRoundSetupService RoundSetupService { get; set; } = default!;
     [Inject]
+    private IPersonService PersonService { get; set; } = default!;
+    [Inject]
     private NavigationManager NavigationManager { get; set; } = default!;
     private List<ClubVM> Clubs {get; set;} = default!;
     private Club? Club { get; set;}
@@ -45,9 +47,10 @@ public partial class Index
     {
         var course = Club!.Courses.Single(t => t.ID == SelectedCourse);
         var rating = playerVM.Gender == "men" ? course.Ratings.Men[playerVM.Tee] : course.Ratings.Women[playerVM.Tee];
-        playerVM.CourseHcp = RoundSetupService.CalculatePlayersCourseHcp(playerVM.Hcp.Value, course.Par,
+        playerVM.CourseHcp = RoundSetupService.CalculatePlayersCourseHcp(playerVM.Hcp!.Value, course.Par,
             rating.CR!.Value, rating.SR!.Value!);
         Players.Add(playerVM);
+        PersonService.CreatePerson(new Person(playerVM.Name, playerVM.Hcp.Value, playerVM.Gender));
     }
 
     private async Task CreateGame()
