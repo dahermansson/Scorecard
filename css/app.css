@@ -175,8 +175,22 @@ a, .btn-link {
     font-size: 1.2rem;
 }
 
-.games-grid{
+.games-grid {
     display: grid;
+    grid-template-columns: max-content min-content;
+    gap: 1rem;
+}
+.games-grid .value {
+    font-size: 2rem;
+}
+
+.players-grid {
+    display: grid;
+    grid-template-columns: max-content min-content;
+    gap: 1rem;
+}
+.player-grid .value {
+    font-size: 2rem;
 }
 .hole {
     padding-top: 0.5rem;
