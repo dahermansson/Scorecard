@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-Nv8zFw1SMb+1L1AFI78vmGPyEEmEe28ONpZGxHvj\/uM=",
+      "hash": "sha256-QsS3q71JIuxmI3++b6L6AgEx6W\/2zrsjTdsF9a7zKT8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-bTTdWAAsPZGwLwXIXz72ylyCUH5MGOwc6BhAdC74taw=",
+      "hash": "sha256-HozCOhiCNQEodFloIK8we5x17V7GDGAVKqDtF6i+LuY=",
       "url": "_framework\/Scorecard.dll"
     },
     {
@@ -253,12 +253,16 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-OM25aIdbsLxIKEKJkxqQFe+z4sXBVMIyntDwdnbagO4=",
+      "hash": "sha256-9nNJ0jtvWzoN+l4zh8\/pW0RXqT6AWNYOFob9kaFbdn0=",
       "url": "data\/clubs.json"
     },
     {
-      "hash": "sha256-T8qgQXJnNfvI0gDYNa6QFrW0IGZFJruBgLJjynWlbXo=",
+      "hash": "sha256-st7Z3kjMuAC4FxoeGTfFVy23J5uQuzX6Gp4bS7A+3I0=",
       "url": "data\/dalsjo_golfklubb.json"
+    },
+    {
+      "hash": "sha256-8M3DieLVCdM8A8e492F9cUxyK8HZD3c2Ga7TRFZu1a4=",
+      "url": "data\/gagnefs_golfklubb.json"
     },
     {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
@@ -281,5 +285,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "3iCZfEOV"
+  "version": "jpokkqm+"
 };
