@@ -6,6 +6,20 @@
       {
         "id": "18_halsbanan",
         "name": "18 h\u00E5lsbanan"
+      },
+      {
+        "name": "Lilla Banan Pay \u0026 Play",
+        "id": "lilla_banan_pay_\u0026_play"
+      }
+    ]
+  },
+  {
+    "id": "gagnefs_golfklubb",
+    "name": "Gagnefs Golfklubb",
+    "courses": [
+      {
+        "name": "Gagnefs Golfbana",
+        "id": "gagnefs_golfbana"
       }
     ]
   }

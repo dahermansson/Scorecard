@@ -18,12 +18,13 @@ public class RoundSetupService : IRoundSetupService
     
     public async ValueTask<List<ClubVM>> GetClubs()
     {
-        return (await _httpClient.GetFromJsonAsync<ClubVM[]>("data/clubs.json")).ToList() ?? new List<ClubVM>();
+        return (await _httpClient.GetFromJsonAsync<ClubVM[]>($"data/clubs.json?{Guid.NewGuid()}")).ToList() ?? new List<ClubVM>();
     }
 
     public async Task<Club> GetClub(string id)
     {
-        return await _httpClient.GetFromJsonAsync<Club>($"data/{id}.json");
+        var club = await _httpClient.GetFromJsonAsync<Club>($"data/{id}.json?{Guid.NewGuid()}");
+        return club;
     }
 
     public async Task<Guid> CreateGame(Club club, string courseId, List<PlayerVM> playerVMs)

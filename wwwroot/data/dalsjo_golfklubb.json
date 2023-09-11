@@ -260,14 +260,14 @@
       "ratings": {
         "men": {
           "Orange": {
-            "cr": null,
-            "sr": null
+            "cr": 18,
+            "sr": 24
           }
         },
         "women": {
           "Orange": {
-            "cr": null,
-            "sr": null
+            "cr": 18,
+            "sr": 24
           }
         }
       },
