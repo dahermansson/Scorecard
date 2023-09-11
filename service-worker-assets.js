@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-QsS3q71JIuxmI3++b6L6AgEx6W\/2zrsjTdsF9a7zKT8=",
+      "hash": "sha256-hedvE2x\/N9B4\/FW0sj3JQEOI6HhDSErvDx61Fs1JKEc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-HozCOhiCNQEodFloIK8we5x17V7GDGAVKqDtF6i+LuY=",
+      "hash": "sha256-pLZdUvFD2kjfkWn8shc07OVE9UzGqF5w3yPjYX1puj4=",
       "url": "_framework\/Scorecard.dll"
     },
     {
@@ -285,5 +285,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "jpokkqm+"
+  "version": "BD\/IFnlD"
 };
