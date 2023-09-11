@@ -23,7 +23,7 @@
                     <select value="@(player.Strokes.ContainsKey(hole.Key) ? player.Strokes[hole.Key] : 0)" name="@($"{hole.Key}_{player.Name}")" class="form-select-sm select-score" @onchange="@((e) => SetStroke(player, int.Parse(e.Value.ToString()), hole.Key))">
                         <Scorecard.Components.Score.Score Par="@hole.Value.Par"></Scorecard.Components.Score.Score>
                     </select>
-                    <label>@(player.Strokes.ContainsKey(hole.Key) ? player.Strokes[hole.Key] : "")</label>
+                    <label>@(player.Stableford.ContainsKey(hole.Key) ? player.Stableford[hole.Key] : "")</label>
                 </div>
             }
             @if (hole.Key == 9 && ActiveGame.Course.Holes.Count == 18)
