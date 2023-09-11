@@ -20,7 +20,7 @@
             @foreach (var player in ActiveGame.Players)
             {
                 <div class="player-result">
-                    <select @Value="player.Strokes[hole]" class="form-select-sm select-score" @onchange="@((e) => SetStroke(player, int.Parse(e.Value.ToString()), hole.Key))">
+                    <select value="@player.Strokes[hole]" class="form-select-sm select-score" @onchange="@((e) => SetStroke(player, int.Parse(e.Value.ToString()), hole.Key))">
                         <Scorecard.Components.Score.Score Par="@hole.Value.Par"></Scorecard.Components.Score.Score>
                     </select>
                     <label>@(player.Stableford.ContainsKey(hole.Key) ? player.Stableford[hole.Key] : "")</label>
