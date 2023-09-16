@@ -265,7 +265,7 @@
       "url": "data\/gagnefs_golfklubb.json"
     },
     {
-      "hash": "sha256-7fnwnLlVOioGexxOIyRwNMKhHwl0kX1Qcxxo00MBkqw=",
+      "hash": "sha256-4hdIiAKmSUvmbZWRF4NTI68XWwI2LonUlz+uDXWBBKQ=",
       "url": "data\/hagge_golfklubb.json"
     },
     {
@@ -289,5 +289,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "Fyar33p4"
+  "version": "SH3GAJ\/m"
 };
