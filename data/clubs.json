@@ -22,5 +22,14 @@
         "id": "gagnefs_golfbana"
       }
     ]
+  },
+  {
+  "id": "hagge_golfklubb",
+  "name": "Hagge Golfklubb",
+  "courses": [
+    {
+      "name": "Hagge GK 1-18",
+      "id": "hagge_gk_1-18"
+    }]
   }
 ]
