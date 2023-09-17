@@ -253,7 +253,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-5FX+KPEIrUNMtoRWYdTj14yKuud0sfMFqBHMzldCVZU=",
+      "hash": "sha256-Pm6IhisPpYsnReqLHFHwQFU\/3qKpC1Q\/jh57Opr0Gb8=",
       "url": "data\/clubs.json"
     },
     {
@@ -267,6 +267,10 @@
     {
       "hash": "sha256-4hdIiAKmSUvmbZWRF4NTI68XWwI2LonUlz+uDXWBBKQ=",
       "url": "data\/hagge_golfklubb.json"
+    },
+    {
+      "hash": "sha256-06JEC6nvcaVqGIEPhD9UwSewzODDE7KHKT+O9zRi074=",
+      "url": "data\/osterakers_golfklubb.json"
     },
     {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
@@ -289,5 +293,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "SH3GAJ\/m"
+  "version": "BKdYEcZ5"
 };

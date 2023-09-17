@@ -24,12 +24,27 @@
     ]
   },
   {
-  "id": "hagge_golfklubb",
-  "name": "Hagge Golfklubb",
-  "courses": [
-    {
-      "name": "Hagge GK 1-18",
-      "id": "hagge_gk_1-18"
-    }]
+    "id": "hagge_golfklubb",
+    "name": "Hagge Golfklubb",
+    "courses": [
+      {
+        "name": "Hagge GK 1-18",
+        "id": "hagge_gk_1-18"
+      }
+    ]
+  },
+  {
+    "name": "\u00D6ster\u00E5kers Golfklubb",
+    "id": "osterakers_golfklubb",
+    "courses": [
+      {
+        "name": "V\u00E4sterled",
+        "id": "vasterled"
+      },
+      {
+        "name": "\u00D6ster by Stenson",
+        "id": "oster_by_stenson"
+      }
+    ]
   }
 ]
