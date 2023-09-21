@@ -1,0 +1,141 @@
+{
+  "name": "Flemminge Golfklubb",
+  "id": "flemminge_golfklubb",
+  "courses": [
+    {
+      "name": "Full\u00E4ngdsbana 9 h\u00E5l",
+      "id": "fullangdsbana_9_hal",
+      "par": 33,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Vit": 430,
+            "Gul": 420,
+            "R\u00F6d": 390,
+            "Orange": 220
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Vit": 120,
+            "Gul": 100,
+            "R\u00F6d": 100,
+            "Orange": 90
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Vit": 320,
+            "Gul": 320,
+            "R\u00F6d": 260,
+            "Orange": 250
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Vit": 70,
+            "Gul": 70,
+            "R\u00F6d": 70,
+            "Orange": 70
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Vit": 90,
+            "Gul": 80,
+            "R\u00F6d": 70,
+            "Orange": 60
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Vit": 140,
+            "Gul": 115,
+            "R\u00F6d": 100,
+            "Orange": 70
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Vit": 320,
+            "Gul": 300,
+            "R\u00F6d": 270,
+            "Orange": 240
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 320,
+            "Gul": 300,
+            "R\u00F6d": 270,
+            "Orange": 180
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 320,
+            "Gul": 300,
+            "R\u00F6d": 280,
+            "Orange": 180
+          }
+        }
+      }
+    }
+  ]
+}

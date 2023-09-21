@@ -1,0 +1,179 @@
+{
+  "name": "Haparanda Golfklubb",
+  "id": "haparanda_golfklubb",
+  "courses": [
+    {
+      "name": "TornioHaparanda 18h\u00E5l",
+      "id": "torniohaparanda_18hal",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "58": {
+            "cr": null,
+            "sr": null
+          },
+          "48": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "58": {
+            "cr": null,
+            "sr": null
+          },
+          "48": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "58": 310,
+            "48": 265
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "58": 270,
+            "48": 195
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "58": 330,
+            "48": 260
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "58": 320,
+            "48": 255
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "58": 495,
+            "48": 445
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "58": 115,
+            "48": 100
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "58": 300,
+            "48": 240
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "58": 135,
+            "48": 120
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "58": 500,
+            "48": 460
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "58": 330,
+            "48": 265
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "58": 500,
+            "48": 435
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "58": 105,
+            "48": 90
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "58": 415,
+            "48": 365
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "58": 350,
+            "48": 300
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "58": 305,
+            "48": 255
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "58": 410,
+            "48": 345
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "58": 160,
+            "48": 145
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "58": 495,
+            "48": 460
+          }
+        }
+      }
+    }
+  ]
+}

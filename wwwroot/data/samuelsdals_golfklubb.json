@@ -1,0 +1,629 @@
+{
+  "name": "Samuelsdals Golfklubb",
+  "id": "samuelsdals_golfklubb",
+  "courses": [
+    {
+      "name": "L\u00E5nga Banan H\u00E5l 1 Par 71",
+      "id": "langa_banan_hal_1_par_71",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "56": {
+            "cr": null,
+            "sr": null
+          },
+          "52": {
+            "cr": null,
+            "sr": null
+          },
+          "42": {
+            "cr": null,
+            "sr": null
+          },
+          "35": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "56": {
+            "cr": null,
+            "sr": null
+          },
+          "52": {
+            "cr": null,
+            "sr": null
+          },
+          "42": {
+            "cr": null,
+            "sr": null
+          },
+          "35": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "56": 322,
+            "52": 312,
+            "42": 246,
+            "35": 212
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "56": 122,
+            "52": 103,
+            "42": 81,
+            "35": 59
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "56": 383,
+            "52": 359,
+            "42": 293,
+            "35": 269
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "56": 460,
+            "52": 426,
+            "42": 345,
+            "35": 313
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "56": 318,
+            "52": 263,
+            "42": 219,
+            "35": 159
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "56": 474,
+            "52": 415,
+            "42": 315,
+            "35": 269
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "56": 327,
+            "52": 264,
+            "42": 313,
+            "35": 166
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "56": 384,
+            "52": 322,
+            "42": 250,
+            "35": 211
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "56": 144,
+            "52": 120,
+            "42": 101,
+            "35": 70
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "56": 322,
+            "52": 312,
+            "42": 246,
+            "35": 212
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "56": 122,
+            "52": 103,
+            "42": 81,
+            "35": 81
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "56": 383,
+            "52": 359,
+            "42": 293,
+            "35": 269
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "56": 460,
+            "52": 426,
+            "42": 345,
+            "35": 313
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "56": 318,
+            "52": 263,
+            "42": 215,
+            "35": 159
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "56": 0,
+            "52": 415,
+            "42": 315,
+            "35": 269
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "56": 327,
+            "52": 264,
+            "42": 213,
+            "35": 166
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "56": 384,
+            "52": 322,
+            "42": 250,
+            "35": 211
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "56": 144,
+            "52": 120,
+            "42": 101,
+            "35": 70
+          }
+        }
+      }
+    },
+    {
+      "name": "Par 64 H\u00E5l 1-18 ",
+      "id": "par_64_hal_1-18_",
+      "par": 64,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Vit": 322,
+            "Gul": 312,
+            "R\u00F6d": 246,
+            "Orange": 212
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 122,
+            "Gul": 103,
+            "R\u00F6d": 81,
+            "Orange": 59
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Vit": 383,
+            "Gul": 359,
+            "R\u00F6d": 293,
+            "Orange": 269
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Vit": 460,
+            "Gul": 426,
+            "R\u00F6d": 345,
+            "Orange": 313
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Vit": 318,
+            "Gul": 263,
+            "R\u00F6d": 219,
+            "Orange": 159
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Vit": 474,
+            "Gul": 415,
+            "R\u00F6d": 315,
+            "Orange": 269
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Vit": 327,
+            "Gul": 264,
+            "R\u00F6d": 313,
+            "Orange": 166
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 384,
+            "Gul": 322,
+            "R\u00F6d": 250,
+            "Orange": 211
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Vit": 144,
+            "Gul": 120,
+            "R\u00F6d": 101,
+            "Orange": 70
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Vit": 111,
+            "Gul": 111,
+            "R\u00F6d": 111,
+            "Orange": 89
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Vit": 169,
+            "Gul": 166,
+            "R\u00F6d": 164,
+            "Orange": 121
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Vit": 235,
+            "Gul": 231,
+            "R\u00F6d": 228,
+            "Orange": 135
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Vit": 158,
+            "Gul": 155,
+            "R\u00F6d": 152,
+            "Orange": 115
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 172,
+            "Gul": 142,
+            "R\u00F6d": 142,
+            "Orange": 121
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Vit": 170,
+            "Gul": 167,
+            "R\u00F6d": 164,
+            "Orange": 142
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Vit": 149,
+            "Gul": 149,
+            "R\u00F6d": 149,
+            "Orange": 115
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Vit": 134,
+            "Gul": 134,
+            "R\u00F6d": 134,
+            "Orange": 120
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Vit": 151,
+            "Gul": 127,
+            "R\u00F6d": 127,
+            "Orange": 111
+          }
+        }
+      }
+    },
+    {
+      "name": "Parkbanan H\u00E5l 10-18 ",
+      "id": "parkbanan_hal_10-18_",
+      "par": 54,
+      "ratings": {
+        "men": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Svart": 164,
+            "Orange": 0
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Svart": 135,
+            "Orange": 0
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Svart": 155,
+            "Orange": 0
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Svart": 120,
+            "Orange": 0
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Svart": 170,
+            "Orange": 0
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Svart": 80,
+            "Orange": 0
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Svart": 134,
+            "Orange": 0
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Svart": 111,
+            "Orange": 0
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Svart": 111,
+            "Orange": 0
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Svart": 80,
+            "Orange": 0
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Svart": 173,
+            "Orange": 0
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Svart": 115,
+            "Orange": 0
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Svart": 170,
+            "Orange": 0
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Svart": 85,
+            "Orange": 0
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Svart": 130,
+            "Orange": 0
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Svart": 92,
+            "Orange": 0
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Svart": 149,
+            "Orange": 0
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Svart": 89,
+            "Orange": 100
+          }
+        }
+      }
+    }
+  ]
+}

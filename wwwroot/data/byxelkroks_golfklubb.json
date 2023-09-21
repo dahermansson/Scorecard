@@ -1,0 +1,205 @@
+{
+  "name": "Byxelkroks Golfklubb",
+  "id": "byxelkroks_golfklubb",
+  "courses": [
+    {
+      "name": "Stor\u00E4ng 12 h\u00E5lsbanan",
+      "id": "storang_12_halsbanan",
+      "par": 67,
+      "ratings": {
+        "men": {
+          "I": {
+            "cr": null,
+            "sr": null
+          },
+          "II": {
+            "cr": null,
+            "sr": null
+          },
+          "III": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "I": {
+            "cr": null,
+            "sr": null
+          },
+          "II": {
+            "cr": null,
+            "sr": null
+          },
+          "III": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "I": 208,
+            "II": 202,
+            "III": 183
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "I": 234,
+            "II": 203,
+            "III": 195
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "I": 265,
+            "II": 220,
+            "III": 209
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "I": 113,
+            "II": 104,
+            "III": 95
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "I": 143,
+            "II": 135,
+            "III": 110
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "I": 228,
+            "II": 209,
+            "III": 201
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "I": 298,
+            "II": 270,
+            "III": 231
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "I": 237,
+            "II": 229,
+            "III": 190
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "I": 150,
+            "II": 137,
+            "III": 123
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "I": 230,
+            "II": 215,
+            "III": 180
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "I": 150,
+            "II": 141,
+            "III": 132
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "I": 341,
+            "II": 299,
+            "III": 291
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "I": 208,
+            "II": 202,
+            "III": 183
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "I": 234,
+            "II": 203,
+            "III": 195
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "I": 265,
+            "II": 220,
+            "III": 209
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "I": 113,
+            "II": 104,
+            "III": 95
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "I": 143,
+            "II": 135,
+            "III": 110
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "I": 228,
+            "II": 209,
+            "III": 201
+          }
+        }
+      }
+    }
+  ]
+}

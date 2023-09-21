@@ -1,0 +1,179 @@
+{
+  "name": "S\u00F6rfj\u00E4rdens Golfklubb",
+  "id": "sorfjardens_golfklubb",
+  "courses": [
+    {
+      "name": "18-h\u00E5lsslingan",
+      "id": "18-halsslingan",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "53": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "53": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "53": 305,
+            "49": 245
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "53": 162,
+            "49": 146
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "53": 339,
+            "49": 298
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "53": 181,
+            "49": 148
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "53": 384,
+            "49": 334
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "53": 420,
+            "49": 367
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 17,
+          "distances": {
+            "53": 436,
+            "49": 395
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "53": 321,
+            "49": 292
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "53": 375,
+            "49": 327
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "53": 287,
+            "49": 241
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "53": 350,
+            "49": 305
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "53": 141,
+            "49": 128
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "53": 470,
+            "49": 402
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "53": 301,
+            "49": 261
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "53": 134,
+            "49": 118
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "53": 356,
+            "49": 311
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "53": 332,
+            "49": 298
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "53": 365,
+            "49": 308
+          }
+        }
+      }
+    }
+  ]
+}

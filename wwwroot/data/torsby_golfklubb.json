@@ -1,0 +1,179 @@
+{
+  "name": "Torsby Golfklubb",
+  "id": "torsby_golfklubb",
+  "courses": [
+    {
+      "name": "Parkbanan",
+      "id": "parkbanan",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 362,
+            "R\u00F6d": 313
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "Gul": 420,
+            "R\u00F6d": 343
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 334,
+            "R\u00F6d": 288
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 340,
+            "R\u00F6d": 297
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 127,
+            "R\u00F6d": 95
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 326,
+            "R\u00F6d": 282
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Gul": 426,
+            "R\u00F6d": 370
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 130,
+            "R\u00F6d": 103
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 324,
+            "R\u00F6d": 275
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 313,
+            "R\u00F6d": 270
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "Gul": 420,
+            "R\u00F6d": 343
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 334,
+            "R\u00F6d": 288
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 340,
+            "R\u00F6d": 297
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 159,
+            "R\u00F6d": 127
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 326,
+            "R\u00F6d": 282
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 426,
+            "R\u00F6d": 370
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 130,
+            "R\u00F6d": 103
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 324,
+            "R\u00F6d": 275
+          }
+        }
+      }
+    }
+  ]
+}

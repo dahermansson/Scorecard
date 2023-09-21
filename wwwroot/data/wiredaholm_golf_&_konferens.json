@@ -1,0 +1,179 @@
+{
+  "name": "Wiredaholm Golf \u0026 Konferens",
+  "id": "wiredaholm_golf_\u0026_konferens",
+  "courses": [
+    {
+      "name": "Wiredaholm",
+      "id": "wiredaholm",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Gul": 422,
+            "R\u00F6d": 369
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 120
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 367,
+            "R\u00F6d": 274
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 453,
+            "R\u00F6d": 372
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 273,
+            "R\u00F6d": 240
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 143,
+            "R\u00F6d": 116
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Gul": 452,
+            "R\u00F6d": 390
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 342,
+            "R\u00F6d": 291
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 238,
+            "R\u00F6d": 192
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 287,
+            "R\u00F6d": 245
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 344,
+            "R\u00F6d": 307
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 344,
+            "R\u00F6d": 288
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 188,
+            "R\u00F6d": 138
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 301,
+            "R\u00F6d": 266
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 335,
+            "R\u00F6d": 270
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 314,
+            "R\u00F6d": 268
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 138,
+            "R\u00F6d": 107
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 356,
+            "R\u00F6d": 271
+          }
+        }
+      }
+    }
+  ]
+}

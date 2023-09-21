@@ -1,0 +1,231 @@
+{
+  "name": "Eksj\u00F6 Golfklubb",
+  "id": "eksjo_golfklubb",
+  "courses": [
+    {
+      "name": "Skedhult 1",
+      "id": "skedhult_1",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Vit": 335,
+            "Gul": 335,
+            "Bl\u00E5": 297,
+            "R\u00F6d": 297
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Vit": 483,
+            "Gul": 475,
+            "Bl\u00E5": 434,
+            "R\u00F6d": 434
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Vit": 159,
+            "Gul": 146,
+            "Bl\u00E5": 146,
+            "R\u00F6d": 108
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Vit": 412,
+            "Gul": 382,
+            "Bl\u00E5": 326,
+            "R\u00F6d": 273
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 370,
+            "Gul": 356,
+            "Bl\u00E5": 356,
+            "R\u00F6d": 316
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Vit": 325,
+            "Gul": 314,
+            "Bl\u00E5": 314,
+            "R\u00F6d": 283
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 171,
+            "Gul": 130,
+            "Bl\u00E5": 130,
+            "R\u00F6d": 90
+          }
+        },
+        "8": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Vit": 459,
+            "Gul": 455,
+            "Bl\u00E5": 431,
+            "R\u00F6d": 374
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Vit": 301,
+            "Gul": 289,
+            "Bl\u00E5": 231,
+            "R\u00F6d": 231
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 333,
+            "Gul": 326,
+            "Bl\u00E5": 286,
+            "R\u00F6d": 286
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 127,
+            "Gul": 119,
+            "Bl\u00E5": 119,
+            "R\u00F6d": 106
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 345,
+            "Gul": 333,
+            "Bl\u00E5": 321,
+            "R\u00F6d": 313
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Vit": 505,
+            "Gul": 493,
+            "Bl\u00E5": 444,
+            "R\u00F6d": 444
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 367,
+            "Gul": 340,
+            "Bl\u00E5": 324,
+            "R\u00F6d": 307
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Vit": 339,
+            "Gul": 328,
+            "Bl\u00E5": 315,
+            "R\u00F6d": 290
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Vit": 148,
+            "Gul": 138,
+            "Bl\u00E5": 138,
+            "R\u00F6d": 118
+          }
+        },
+        "17": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Vit": 457,
+            "Gul": 443,
+            "Bl\u00E5": 411,
+            "R\u00F6d": 396
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 339,
+            "Gul": 328,
+            "Bl\u00E5": 316,
+            "R\u00F6d": 307
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Helsingborgs Golfklubb",
+  "id": "helsingborgs_golfklubb",
+  "courses": [
+    {
+      "name": "HELSINGBORGS GK",
+      "id": "helsingborgs_gk",
+      "par": 68,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 253,
+            "R\u00F6d": 232
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 178,
+            "R\u00F6d": 156
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 449,
+            "R\u00F6d": 425
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 150
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 257,
+            "R\u00F6d": 257
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 368,
+            "R\u00F6d": 300
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 244,
+            "R\u00F6d": 214
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 97,
+            "R\u00F6d": 97
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 275,
+            "R\u00F6d": 241
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 253,
+            "R\u00F6d": 232
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 178,
+            "R\u00F6d": 156
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 449,
+            "R\u00F6d": 425
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 150
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 257,
+            "R\u00F6d": 257
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 368,
+            "R\u00F6d": 300
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 244,
+            "R\u00F6d": 214
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 97,
+            "R\u00F6d": 97
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 275,
+            "R\u00F6d": 241
+          }
+        }
+      }
+    }
+  ]
+}

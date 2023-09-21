@@ -1,0 +1,713 @@
+{
+  "name": "Landeryds Golfklubb",
+  "id": "landeryds_golfklubb",
+  "courses": [
+    {
+      "name": "Classic",
+      "id": "classic",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Gul": 461,
+            "R\u00F6d": 415
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 145,
+            "R\u00F6d": 131
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 336,
+            "R\u00F6d": 270
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 144,
+            "R\u00F6d": 115
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 338,
+            "R\u00F6d": 288
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 303,
+            "R\u00F6d": 236
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 412,
+            "R\u00F6d": 360
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 266,
+            "R\u00F6d": 221
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 149,
+            "R\u00F6d": 135
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 442,
+            "R\u00F6d": 378
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 347,
+            "R\u00F6d": 266
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 307,
+            "R\u00F6d": 264
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 123
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 338,
+            "R\u00F6d": 269
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 120,
+            "R\u00F6d": 103
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Gul": 406,
+            "R\u00F6d": 354
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 127,
+            "R\u00F6d": 93
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 329,
+            "R\u00F6d": 283
+          }
+        }
+      }
+    },
+    {
+      "name": "Masters",
+      "id": "masters",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Vit": 334,
+            "Gul": 304,
+            "Bl\u00E5": 274,
+            "R\u00F6d": 274
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Vit": 350,
+            "Gul": 311,
+            "Bl\u00E5": 311,
+            "R\u00F6d": 277
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 202,
+            "Gul": 152,
+            "Bl\u00E5": 110,
+            "R\u00F6d": 110
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Vit": 524,
+            "Gul": 510,
+            "Bl\u00E5": 430,
+            "R\u00F6d": 395
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "Vit": 488,
+            "Gul": 448,
+            "Bl\u00E5": 401,
+            "R\u00F6d": 361
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 407,
+            "Gul": 360,
+            "Bl\u00E5": 360,
+            "R\u00F6d": 313
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 179,
+            "Gul": 148,
+            "Bl\u00E5": 106,
+            "R\u00F6d": 106
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Vit": 315,
+            "Gul": 291,
+            "Bl\u00E5": 266,
+            "R\u00F6d": 199
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Vit": 339,
+            "Gul": 331,
+            "Bl\u00E5": 272,
+            "R\u00F6d": 272
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 403,
+            "Gul": 354,
+            "Bl\u00E5": 354,
+            "R\u00F6d": 297
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Vit": 100,
+            "Gul": 100,
+            "Bl\u00E5": 100,
+            "R\u00F6d": 85
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Vit": 474,
+            "Gul": 471,
+            "Bl\u00E5": 462,
+            "R\u00F6d": 371
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Vit": 459,
+            "Gul": 427,
+            "Bl\u00E5": 427,
+            "R\u00F6d": 395
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 403,
+            "Gul": 315,
+            "Bl\u00E5": 315,
+            "R\u00F6d": 285
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 153,
+            "Gul": 141,
+            "Bl\u00E5": 120,
+            "R\u00F6d": 94
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Vit": 513,
+            "Gul": 497,
+            "Bl\u00E5": 476,
+            "R\u00F6d": 426
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 139,
+            "Gul": 118,
+            "Bl\u00E5": 105,
+            "R\u00F6d": 82
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 364,
+            "Gul": 318,
+            "Bl\u00E5": 318,
+            "R\u00F6d": 253
+          }
+        }
+      }
+    },
+    {
+      "name": "Skandiam\u00E4klar-slingan",
+      "id": "skandiamaklar-slingan",
+      "par": 27,
+      "ratings": {
+        "men": {
+          "Matta": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Matta": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Matta": 60
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Matta": 60
+          }
+        }
+      }
+    },
+    {
+      "name": "Vesterby Links",
+      "id": "vesterby_links",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Vit": 506,
+            "Gul": 487,
+            "Bl\u00E5": 458,
+            "R\u00F6d": 365
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 384,
+            "Gul": 350,
+            "Bl\u00E5": 268,
+            "R\u00F6d": 212
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Vit": 328,
+            "Gul": 328,
+            "Bl\u00E5": 274,
+            "R\u00F6d": 252
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Vit": 361,
+            "Gul": 332,
+            "Bl\u00E5": 332,
+            "R\u00F6d": 277
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Vit": 142,
+            "Gul": 104,
+            "Bl\u00E5": 103,
+            "R\u00F6d": 91
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Vit": 368,
+            "Gul": 295,
+            "Bl\u00E5": 295,
+            "R\u00F6d": 250
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Vit": 334,
+            "Gul": 294,
+            "Bl\u00E5": 260,
+            "R\u00F6d": 240
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Vit": 184,
+            "Gul": 155,
+            "Bl\u00E5": 126,
+            "R\u00F6d": 126
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 348,
+            "Gul": 348,
+            "Bl\u00E5": 326,
+            "R\u00F6d": 294
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Vit": 556,
+            "Gul": 440,
+            "Bl\u00E5": 440,
+            "R\u00F6d": 357
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Vit": 152,
+            "Gul": 137,
+            "Bl\u00E5": 126,
+            "R\u00F6d": 107
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Vit": 544,
+            "Gul": 470,
+            "Bl\u00E5": 445,
+            "R\u00F6d": 398
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Vit": 330,
+            "Gul": 297,
+            "Bl\u00E5": 279,
+            "R\u00F6d": 211
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 445,
+            "Gul": 364,
+            "Bl\u00E5": 325,
+            "R\u00F6d": 325
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Vit": 172,
+            "Gul": 159,
+            "Bl\u00E5": 122,
+            "R\u00F6d": 122
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Vit": 379,
+            "Gul": 346,
+            "Bl\u00E5": 346,
+            "R\u00F6d": 306
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Vit": 129,
+            "Gul": 110,
+            "Bl\u00E5": 110,
+            "R\u00F6d": 106
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "Vit": 519,
+            "Gul": 483,
+            "Bl\u00E5": 437,
+            "R\u00F6d": 370
+          }
+        }
+      }
+    }
+  ]
+}

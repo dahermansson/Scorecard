@@ -1,0 +1,179 @@
+{
+  "name": "Hedemora Golfklubb",
+  "id": "hedemora_golfklubb",
+  "courses": [
+    {
+      "name": "Hedemora GK",
+      "id": "hedemora_gk",
+      "par": 73,
+      "ratings": {
+        "men": {
+          "59": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "59": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 17,
+          "distances": {
+            "59": 464,
+            "49": 380
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "59": 322,
+            "49": 290
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "59": 167,
+            "49": 131
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "59": 330,
+            "49": 275
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "59": 136,
+            "49": 125
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "59": 504,
+            "49": 397
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "59": 375,
+            "49": 290
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "59": 334,
+            "49": 287
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "59": 356,
+            "49": 295
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "59": 477,
+            "49": 385
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "59": 301,
+            "49": 263
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "59": 258,
+            "49": 180
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "59": 309,
+            "49": 270
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "59": 117,
+            "49": 112
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "59": 352,
+            "49": 295
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "59": 392,
+            "49": 330
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "59": 314,
+            "49": 244
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "59": 445,
+            "49": 395
+          }
+        }
+      }
+    }
+  ]
+}

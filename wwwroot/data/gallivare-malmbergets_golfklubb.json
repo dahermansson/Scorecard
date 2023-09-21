@@ -1,0 +1,179 @@
+{
+  "name": "G\u00E4llivare-Malmbergets Golfklubb",
+  "id": "gallivare-malmbergets_golfklubb",
+  "courses": [
+    {
+      "name": "Puoitakbanan",
+      "id": "puoitakbanan",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Gul": 466,
+            "R\u00F6d": 392
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 280,
+            "R\u00F6d": 245
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 321,
+            "R\u00F6d": 275
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 167,
+            "R\u00F6d": 145
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 503,
+            "R\u00F6d": 404
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 125
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 117
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 315,
+            "R\u00F6d": 278
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 367,
+            "R\u00F6d": 314
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 303,
+            "R\u00F6d": 266
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 115
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 332,
+            "R\u00F6d": 272
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "Gul": 447,
+            "R\u00F6d": 348
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 344,
+            "R\u00F6d": 293
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 346,
+            "R\u00F6d": 274
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 441,
+            "R\u00F6d": 351
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 159,
+            "R\u00F6d": 124
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 307,
+            "R\u00F6d": 272
+          }
+        }
+      }
+    }
+  ]
+}

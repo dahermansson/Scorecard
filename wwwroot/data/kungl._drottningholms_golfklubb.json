@@ -1,0 +1,257 @@
+{
+  "name": "Kungl. Drottningholms Golfklubb",
+  "id": "kungl._drottningholms_golfklubb",
+  "courses": [
+    {
+      "name": "Drottningholm",
+      "id": "drottningholm",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "I": {
+            "cr": null,
+            "sr": null
+          },
+          "II": {
+            "cr": null,
+            "sr": null
+          },
+          "III": {
+            "cr": null,
+            "sr": null
+          },
+          "IV": {
+            "cr": null,
+            "sr": null
+          },
+          "V": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "I": {
+            "cr": null,
+            "sr": null
+          },
+          "II": {
+            "cr": null,
+            "sr": null
+          },
+          "III": {
+            "cr": null,
+            "sr": null
+          },
+          "IV": {
+            "cr": null,
+            "sr": null
+          },
+          "V": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "I": 384,
+            "II": 340,
+            "III": 340,
+            "IV": 309,
+            "V": 252
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "I": 369,
+            "II": 339,
+            "III": 303,
+            "IV": 278,
+            "V": 231
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "I": 367,
+            "II": 329,
+            "III": 298,
+            "IV": 298,
+            "V": 244
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "I": 469,
+            "II": 400,
+            "III": 364,
+            "IV": 331,
+            "V": 294
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "I": 159,
+            "II": 135,
+            "III": 124,
+            "IV": 114,
+            "V": 96
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "I": 465,
+            "II": 439,
+            "III": 439,
+            "IV": 377,
+            "V": 377
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "I": 555,
+            "II": 512,
+            "III": 466,
+            "IV": 430,
+            "V": 376
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "I": 137,
+            "II": 124,
+            "III": 106,
+            "IV": 90,
+            "V": 90
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "I": 380,
+            "II": 362,
+            "III": 327,
+            "IV": 305,
+            "V": 257
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "I": 407,
+            "II": 384,
+            "III": 317,
+            "IV": 290,
+            "V": 290
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "I": 325,
+            "II": 317,
+            "III": 317,
+            "IV": 292,
+            "V": 246
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "I": 141,
+            "II": 126,
+            "III": 119,
+            "IV": 108,
+            "V": 75
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "I": 390,
+            "II": 323,
+            "III": 297,
+            "IV": 263,
+            "V": 210
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "I": 386,
+            "II": 365,
+            "III": 342,
+            "IV": 324,
+            "V": 275
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "I": 480,
+            "II": 468,
+            "III": 422,
+            "IV": 393,
+            "V": 341
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "I": 165,
+            "II": 149,
+            "III": 149,
+            "IV": 125,
+            "V": 125
+          }
+        },
+        "17": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "I": 528,
+            "II": 496,
+            "III": 477,
+            "IV": 443,
+            "V": 349
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "I": 199,
+            "II": 171,
+            "III": 159,
+            "IV": 136,
+            "V": 105
+          }
+        }
+      }
+    }
+  ]
+}

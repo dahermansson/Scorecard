@@ -1,0 +1,231 @@
+{
+  "name": "Dagsholm Golfklubb",
+  "id": "dagsholm_golfklubb",
+  "courses": [
+    {
+      "name": "Dagsholm",
+      "id": "dagsholm",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Tee58": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee55": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee46": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee38": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Tee58": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee55": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee46": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee38": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Tee58": 507,
+            "Tee55": 496,
+            "Tee46": 398,
+            "Tee38": 350
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Tee58": 313,
+            "Tee55": 286,
+            "Tee46": 253,
+            "Tee38": 180
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Tee58": 375,
+            "Tee55": 357,
+            "Tee46": 272,
+            "Tee38": 190
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Tee58": 359,
+            "Tee55": 340,
+            "Tee46": 275,
+            "Tee38": 216
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Tee58": 297,
+            "Tee55": 291,
+            "Tee46": 259,
+            "Tee38": 208
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Tee58": 177,
+            "Tee55": 128,
+            "Tee46": 93,
+            "Tee38": 93
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Tee58": 536,
+            "Tee55": 498,
+            "Tee46": 395,
+            "Tee38": 322
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Tee58": 371,
+            "Tee55": 336,
+            "Tee46": 320,
+            "Tee38": 227
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Tee58": 128,
+            "Tee55": 120,
+            "Tee46": 102,
+            "Tee38": 102
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Tee58": 366,
+            "Tee55": 329,
+            "Tee46": 270,
+            "Tee38": 217
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Tee58": 143,
+            "Tee55": 128,
+            "Tee46": 103,
+            "Tee38": 103
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Tee58": 468,
+            "Tee55": 440,
+            "Tee46": 383,
+            "Tee38": 313
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Tee58": 328,
+            "Tee55": 310,
+            "Tee46": 283,
+            "Tee38": 195
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Tee58": 321,
+            "Tee55": 304,
+            "Tee46": 284,
+            "Tee38": 217
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Tee58": 139,
+            "Tee55": 131,
+            "Tee46": 107,
+            "Tee38": 107
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "Tee58": 464,
+            "Tee55": 453,
+            "Tee46": 382,
+            "Tee38": 307
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Tee58": 165,
+            "Tee55": 150,
+            "Tee46": 134,
+            "Tee38": 134
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "Tee58": 451,
+            "Tee55": 418,
+            "Tee46": 351,
+            "Tee38": 270
+          }
+        }
+      }
+    }
+  ]
+}

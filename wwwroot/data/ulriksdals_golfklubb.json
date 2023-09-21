@@ -1,0 +1,179 @@
+{
+  "name": "Ulriksdals Golfklubb",
+  "id": "ulriksdals_golfklubb",
+  "courses": [
+    {
+      "name": "ULRIKSDALS GK",
+      "id": "ulriksdals_gk",
+      "par": 60,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Gul": 235,
+            "R\u00F6d": 235
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 110,
+            "R\u00F6d": 110
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 254,
+            "R\u00F6d": 254
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 296,
+            "R\u00F6d": 256
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 105,
+            "R\u00F6d": 105
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 135
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 75,
+            "R\u00F6d": 75
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 100
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 125,
+            "R\u00F6d": 125
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 235,
+            "R\u00F6d": 235
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 110,
+            "R\u00F6d": 110
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 254,
+            "R\u00F6d": 254
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 296,
+            "R\u00F6d": 256
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 105,
+            "R\u00F6d": 105
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 135
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 75,
+            "R\u00F6d": 75
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 100
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 125,
+            "R\u00F6d": 125
+          }
+        }
+      }
+    }
+  ]
+}

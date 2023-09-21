@@ -1,0 +1,179 @@
+{
+  "name": "Sofielund Golfklubb",
+  "id": "sofielund_golfklubb",
+  "courses": [
+    {
+      "name": "Stora Banan 18 h\u00E5l par 67",
+      "id": "stora_banan_18_hal_par_67",
+      "par": 67,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 280,
+            "R\u00F6d": 259
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 362,
+            "R\u00F6d": 296
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 249,
+            "R\u00F6d": 206
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 157,
+            "R\u00F6d": 130
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 282,
+            "R\u00F6d": 244
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 124,
+            "R\u00F6d": 110
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 291,
+            "R\u00F6d": 271
+          }
+        },
+        "8": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 480,
+            "R\u00F6d": 393
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 138,
+            "R\u00F6d": 106
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 307,
+            "R\u00F6d": 273
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 123,
+            "R\u00F6d": 102
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 274,
+            "R\u00F6d": 231
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 227,
+            "R\u00F6d": 205
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 110,
+            "R\u00F6d": 101
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 88,
+            "R\u00F6d": 70
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 243,
+            "R\u00F6d": 218
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 149,
+            "R\u00F6d": 121
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 450,
+            "R\u00F6d": 400
+          }
+        }
+      }
+    }
+  ]
+}

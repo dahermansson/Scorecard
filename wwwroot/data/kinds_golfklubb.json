@@ -1,0 +1,231 @@
+{
+  "name": "Kinds Golfklubb",
+  "id": "kinds_golfklubb",
+  "courses": [
+    {
+      "name": "Kindsbanan ",
+      "id": "kindsbanan_",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Gr\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Gr\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "Gul": 445,
+            "Gr\u00E5": 445,
+            "Bl\u00E5": 395,
+            "R\u00F6d": 365
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 345,
+            "Gr\u00E5": 300,
+            "Bl\u00E5": 300,
+            "R\u00F6d": 265
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 150,
+            "Gr\u00E5": 150,
+            "Bl\u00E5": 135,
+            "R\u00F6d": 135
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 345,
+            "Gr\u00E5": 320,
+            "Bl\u00E5": 320,
+            "R\u00F6d": 265
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Gul": 480,
+            "Gr\u00E5": 420,
+            "Bl\u00E5": 420,
+            "R\u00F6d": 350
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 385,
+            "Gr\u00E5": 330,
+            "Bl\u00E5": 330,
+            "R\u00F6d": 290
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 160,
+            "Gr\u00E5": 160,
+            "Bl\u00E5": 130,
+            "R\u00F6d": 100
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 325,
+            "Gr\u00E5": 275,
+            "Bl\u00E5": 275,
+            "R\u00F6d": 235
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 300,
+            "Gr\u00E5": 300,
+            "Bl\u00E5": 245,
+            "R\u00F6d": 245
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 335,
+            "Gr\u00E5": 335,
+            "Bl\u00E5": 285,
+            "R\u00F6d": 285
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Gul": 460,
+            "Gr\u00E5": 400,
+            "Bl\u00E5": 400,
+            "R\u00F6d": 365
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 315,
+            "Gr\u00E5": 280,
+            "Bl\u00E5": 280,
+            "R\u00F6d": 245
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 390,
+            "Gr\u00E5": 340,
+            "Bl\u00E5": 340,
+            "R\u00F6d": 285
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 310,
+            "Gr\u00E5": 310,
+            "Bl\u00E5": 270,
+            "R\u00F6d": 245
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 300,
+            "Gr\u00E5": 300,
+            "Bl\u00E5": 250,
+            "R\u00F6d": 225
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 145,
+            "Gr\u00E5": 145,
+            "Bl\u00E5": 130,
+            "R\u00F6d": 105
+          }
+        },
+        "17": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 465,
+            "Gr\u00E5": 420,
+            "Bl\u00E5": 420,
+            "R\u00F6d": 380
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 130,
+            "Gr\u00E5": 130,
+            "Bl\u00E5": 125,
+            "R\u00F6d": 90
+          }
+        }
+      }
+    }
+  ]
+}

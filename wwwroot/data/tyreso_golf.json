@@ -1,0 +1,179 @@
+{
+  "name": "Tyres\u00F6 Golf",
+  "id": "tyreso_golf",
+  "courses": [
+    {
+      "name": "Tyres\u00F6 Golf",
+      "id": "tyreso_golf",
+      "par": 65,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 294,
+            "R\u00F6d": 269
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 330,
+            "R\u00F6d": 268
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 144,
+            "R\u00F6d": 132
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 261,
+            "R\u00F6d": 210
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Gul": 162,
+            "R\u00F6d": 138
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 108,
+            "R\u00F6d": 97
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 288,
+            "R\u00F6d": 263
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 95,
+            "R\u00F6d": 95
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 209,
+            "R\u00F6d": 192
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Gul": 421,
+            "R\u00F6d": 358
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 364,
+            "R\u00F6d": 270
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 307,
+            "R\u00F6d": 266
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 99
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 338,
+            "R\u00F6d": 294
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 120,
+            "R\u00F6d": 109
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 298,
+            "R\u00F6d": 260
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 183,
+            "R\u00F6d": 149
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 142
+          }
+        }
+      }
+    }
+  ]
+}

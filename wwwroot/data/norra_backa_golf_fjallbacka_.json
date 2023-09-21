@@ -1,0 +1,179 @@
+{
+  "name": "Norra Backa Golf Fj\u00E4llbacka ",
+  "id": "norra_backa_golf_fjallbacka_",
+  "courses": [
+    {
+      "name": "9 h\u00E5l",
+      "id": "9_hal",
+      "par": 64,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 232,
+            "R\u00F6d": 218
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 142,
+            "R\u00F6d": 121
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 142,
+            "R\u00F6d": 130
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 93,
+            "R\u00F6d": 93
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 117,
+            "R\u00F6d": 85
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 436,
+            "R\u00F6d": 366
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 241,
+            "R\u00F6d": 216
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 105,
+            "R\u00F6d": 98
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 273,
+            "R\u00F6d": 210
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 230,
+            "R\u00F6d": 207
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 142,
+            "R\u00F6d": 121
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 142,
+            "R\u00F6d": 0
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 93,
+            "R\u00F6d": 93
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 117,
+            "R\u00F6d": 85
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 436,
+            "R\u00F6d": 366
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 241,
+            "R\u00F6d": 216
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 105,
+            "R\u00F6d": 98
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 273,
+            "R\u00F6d": 210
+          }
+        }
+      }
+    }
+  ]
+}

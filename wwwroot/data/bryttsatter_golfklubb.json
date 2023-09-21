@@ -1,0 +1,179 @@
+{
+  "name": "Brytts\u00E4tter Golfklubb",
+  "id": "bryttsatter_golfklubb",
+  "courses": [
+    {
+      "name": "Brytts\u00E4tter Golf",
+      "id": "bryttsatter_golf",
+      "par": 60,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Vit": 140,
+            "Gul": 140
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Vit": 110,
+            "Gul": 110
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Vit": 201,
+            "Gul": 172
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Vit": 155,
+            "Gul": 155
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Vit": 108,
+            "Gul": 108
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 130,
+            "Gul": 88
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Vit": 320,
+            "Gul": 272
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Vit": 235,
+            "Gul": 235
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Vit": 235,
+            "Gul": 175
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Vit": 140,
+            "Gul": 140
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Vit": 110,
+            "Gul": 110
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Vit": 201,
+            "Gul": 172
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Vit": 155,
+            "Gul": 155
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Vit": 108,
+            "Gul": 108
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 130,
+            "Gul": 88
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Vit": 320,
+            "Gul": 272
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Vit": 235,
+            "Gul": 235
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 235,
+            "Gul": 175
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "name": "\u00C5gesta Golfklubb",
+  "id": "agesta_golfklubb",
+  "courses": [
+    {
+      "name": "18-h\u00E5lsbanan",
+      "id": "18-halsbanan",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Vit": 295,
+            "Gul": 285,
+            "Bl\u00E5": 275,
+            "R\u00F6d": 260
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 122,
+            "Gul": 114,
+            "Bl\u00E5": 98,
+            "R\u00F6d": 76
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Vit": 365,
+            "Gul": 340,
+            "Bl\u00E5": 305,
+            "R\u00F6d": 255
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Vit": 290,
+            "Gul": 270,
+            "Bl\u00E5": 250,
+            "R\u00F6d": 230
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Vit": 335,
+            "Gul": 320,
+            "Bl\u00E5": 255,
+            "R\u00F6d": 250
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 380,
+            "Gul": 365,
+            "Bl\u00E5": 315,
+            "R\u00F6d": 305
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "Vit": 430,
+            "Gul": 425,
+            "Bl\u00E5": 385,
+            "R\u00F6d": 380
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Vit": 415,
+            "Gul": 370,
+            "Bl\u00E5": 360,
+            "R\u00F6d": 290
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 315,
+            "Gul": 300,
+            "Bl\u00E5": 290,
+            "R\u00F6d": 230
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Vit": 150,
+            "Gul": 140,
+            "Bl\u00E5": 125,
+            "R\u00F6d": 125
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Vit": 315,
+            "Gul": 265,
+            "Bl\u00E5": 255,
+            "R\u00F6d": 235
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Vit": 515,
+            "Gul": 505,
+            "Bl\u00E5": 480,
+            "R\u00F6d": 430
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Vit": 174,
+            "Gul": 158,
+            "Bl\u00E5": 150,
+            "R\u00F6d": 132
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "Vit": 435,
+            "Gul": 425,
+            "Bl\u00E5": 415,
+            "R\u00F6d": 375
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Vit": 430,
+            "Gul": 375,
+            "Bl\u00E5": 355,
+            "R\u00F6d": 300
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Vit": 470,
+            "Gul": 440,
+            "Bl\u00E5": 385,
+            "R\u00F6d": 385
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 141,
+            "Gul": 128,
+            "Bl\u00E5": 120,
+            "R\u00F6d": 112
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Vit": 350,
+            "Gul": 340,
+            "Bl\u00E5": 250,
+            "R\u00F6d": 240
+          }
+        }
+      }
+    },
+    {
+      "name": "9-h\u00E5lsbanan",
+      "id": "9-halsbanan",
+      "par": 60,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 107
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 125,
+            "R\u00F6d": 125
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 216,
+            "R\u00F6d": 216
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 95,
+            "R\u00F6d": 60
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 121
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 265,
+            "R\u00F6d": 235
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 245,
+            "R\u00F6d": 205
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 93,
+            "R\u00F6d": 75
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 113,
+            "R\u00F6d": 113
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 107
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 125,
+            "R\u00F6d": 125
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 216,
+            "R\u00F6d": 216
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 95,
+            "R\u00F6d": 60
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 121
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 265,
+            "R\u00F6d": 235
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 245,
+            "R\u00F6d": 205
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 93,
+            "R\u00F6d": 75
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 113,
+            "R\u00F6d": 113
+          }
+        }
+      }
+    }
+  ]
+}

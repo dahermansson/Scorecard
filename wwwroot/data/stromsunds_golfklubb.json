@@ -1,0 +1,205 @@
+{
+  "name": "Str\u00F6msunds Golfklubb",
+  "id": "stromsunds_golfklubb",
+  "courses": [
+    {
+      "name": "Str\u00F6msunds Gk",
+      "id": "stromsunds_gk",
+      "par": 73,
+      "ratings": {
+        "men": {
+          "Tee60": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee50": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee40": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Tee60": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee50": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee40": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Tee60": 288,
+            "Tee50": 288,
+            "Tee40": 205
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Tee60": 506,
+            "Tee50": 381,
+            "Tee40": 241
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Tee60": 92,
+            "Tee50": 82,
+            "Tee40": 82
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Tee60": 322,
+            "Tee50": 298,
+            "Tee40": 226
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Tee60": 371,
+            "Tee50": 296,
+            "Tee40": 267
+          }
+        },
+        "6": {
+          "par": 6,
+          "index": 13,
+          "distances": {
+            "Tee60": 567,
+            "Tee50": 473,
+            "Tee40": 458
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Tee60": 166,
+            "Tee50": 156,
+            "Tee40": 118
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Tee60": 321,
+            "Tee50": 260,
+            "Tee40": 202
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Tee60": 382,
+            "Tee50": 297,
+            "Tee40": 246
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Tee60": 310,
+            "Tee50": 261,
+            "Tee40": 205
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Tee60": 419,
+            "Tee50": 363,
+            "Tee40": 241
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Tee60": 80,
+            "Tee50": 70,
+            "Tee40": 70
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Tee60": 327,
+            "Tee50": 270,
+            "Tee40": 226
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Tee60": 387,
+            "Tee50": 267,
+            "Tee40": 267
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Tee60": 519,
+            "Tee50": 458,
+            "Tee40": 404
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Tee60": 161,
+            "Tee50": 161,
+            "Tee40": 118
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Tee60": 344,
+            "Tee50": 253,
+            "Tee40": 202
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Tee60": 402,
+            "Tee50": 321,
+            "Tee40": 246
+          }
+        }
+      }
+    }
+  ]
+}

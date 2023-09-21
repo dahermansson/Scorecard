@@ -1,0 +1,577 @@
+{
+  "name": "Skellefte\u00E5 Golfklubb",
+  "id": "skelleftea_golfklubb",
+  "courses": [
+    {
+      "name": "Skellefte\u00E5 GK 18 h\u00E5l",
+      "id": "skelleftea_gk_18_hal",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "62": {
+            "cr": null,
+            "sr": null
+          },
+          "57": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "62": {
+            "cr": null,
+            "sr": null
+          },
+          "57": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "62": 340,
+            "57": 310,
+            "49": 267
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "62": 496,
+            "57": 484,
+            "49": 420
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "62": 340,
+            "57": 313,
+            "49": 263
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "62": 182,
+            "57": 156,
+            "49": 132
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "62": 459,
+            "57": 441,
+            "49": 397
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "62": 344,
+            "57": 314,
+            "49": 264
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "62": 190,
+            "57": 160,
+            "49": 135
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "62": 365,
+            "57": 350,
+            "49": 300
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "62": 351,
+            "57": 351,
+            "49": 314
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "62": 517,
+            "57": 466,
+            "49": 408
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "62": 375,
+            "57": 362,
+            "49": 314
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "62": 362,
+            "57": 346,
+            "49": 266
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "62": 154,
+            "57": 143,
+            "49": 122
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "62": 355,
+            "57": 335,
+            "49": 297
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "62": 126,
+            "57": 120,
+            "49": 100
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "62": 521,
+            "57": 500,
+            "49": 410
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "62": 338,
+            "57": 310,
+            "49": 267
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "62": 371,
+            "57": 340,
+            "49": 295
+          }
+        }
+      }
+    },
+    {
+      "name": "Skellefte\u00E5 GK 9 h\u00E5l",
+      "id": "skelleftea_gk_9_hal",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "62": {
+            "cr": null,
+            "sr": null
+          },
+          "57": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "62": {
+            "cr": null,
+            "sr": null
+          },
+          "57": {
+            "cr": null,
+            "sr": null
+          },
+          "49": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "62": 493,
+            "57": 460,
+            "49": 345
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "62": 159,
+            "57": 142,
+            "49": 128
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "62": 356,
+            "57": 331,
+            "49": 303
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "62": 391,
+            "57": 306,
+            "49": 255
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "62": 496,
+            "57": 440,
+            "49": 356
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "62": 330,
+            "57": 316,
+            "49": 261
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "62": 332,
+            "57": 322,
+            "49": 284
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "62": 395,
+            "57": 345,
+            "49": 305
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "62": 160,
+            "57": 152,
+            "49": 128
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "62": 493,
+            "57": 460,
+            "49": 345
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "62": 159,
+            "57": 142,
+            "49": 128
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "62": 356,
+            "57": 331,
+            "49": 303
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "62": 391,
+            "57": 306,
+            "49": 255
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "62": 496,
+            "57": 440,
+            "49": 356
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "62": 330,
+            "57": 316,
+            "49": 261
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "62": 332,
+            "57": 322,
+            "49": 284
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "62": 395,
+            "57": 345,
+            "49": 305
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "62": 160,
+            "57": 152,
+            "49": 128
+          }
+        }
+      }
+    },
+    {
+      "name": "Skellefte\u00E5 GK Pay\u0026 Play",
+      "id": "skelleftea_gk_pay\u0026_play",
+      "par": 58,
+      "ratings": {
+        "men": {
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "R\u00F6d": 90,
+            "Gul": 90
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "R\u00F6d": 135,
+            "Gul": 0
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "R\u00F6d": 100,
+            "Gul": 0
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "R\u00F6d": 260,
+            "Gul": 0
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "R\u00F6d": 105,
+            "Gul": 0
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "R\u00F6d": 270,
+            "Gul": 0
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "R\u00F6d": 110,
+            "Gul": 0
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "R\u00F6d": 185,
+            "Gul": 0
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "R\u00F6d": 120,
+            "Gul": 0
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "R\u00F6d": 90,
+            "Gul": 90
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "R\u00F6d": 135,
+            "Gul": 0
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "R\u00F6d": 100,
+            "Gul": 0
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "R\u00F6d": 260,
+            "Gul": 0
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "R\u00F6d": 105,
+            "Gul": 0
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "R\u00F6d": 270,
+            "Gul": 0
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "R\u00F6d": 110,
+            "Gul": 0
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "R\u00F6d": 185,
+            "Gul": 0
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "R\u00F6d": 120,
+            "Gul": 0
+          }
+        }
+      }
+    }
+  ]
+}

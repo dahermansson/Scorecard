@@ -1,0 +1,257 @@
+{
+  "name": "Hallstaviks Golfklubb",
+  "id": "hallstaviks_golfklubb",
+  "courses": [
+    {
+      "name": "Hallstavik Golfklubb",
+      "id": "hallstavik_golfklubb",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "57an": {
+            "cr": null,
+            "sr": null
+          },
+          "55an": {
+            "cr": null,
+            "sr": null
+          },
+          "48an": {
+            "cr": null,
+            "sr": null
+          },
+          "45an": {
+            "cr": null,
+            "sr": null
+          },
+          "33an": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "57an": {
+            "cr": null,
+            "sr": null
+          },
+          "55an": {
+            "cr": null,
+            "sr": null
+          },
+          "48an": {
+            "cr": null,
+            "sr": null
+          },
+          "45an": {
+            "cr": null,
+            "sr": null
+          },
+          "33an": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "57an": 454,
+            "55an": 440,
+            "48an": 381,
+            "45an": 371,
+            "33an": 208
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "57an": 265,
+            "55an": 254,
+            "48an": 254,
+            "45an": 200,
+            "33an": 128
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "57an": 342,
+            "55an": 334,
+            "48an": 285,
+            "45an": 276,
+            "33an": 231
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "57an": 133,
+            "55an": 123,
+            "48an": 114,
+            "45an": 91,
+            "33an": 77
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "57an": 471,
+            "55an": 459,
+            "48an": 397,
+            "45an": 397,
+            "33an": 302
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "57an": 179,
+            "55an": 166,
+            "48an": 139,
+            "45an": 125,
+            "33an": 83
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "57an": 322,
+            "55an": 311,
+            "48an": 265,
+            "45an": 265,
+            "33an": 210
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "57an": 339,
+            "55an": 329,
+            "48an": 290,
+            "45an": 260,
+            "33an": 201
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "57an": 375,
+            "55an": 375,
+            "48an": 331,
+            "45an": 292,
+            "33an": 212
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "57an": 120,
+            "55an": 112,
+            "48an": 112,
+            "45an": 90,
+            "33an": 90
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "57an": 315,
+            "55an": 305,
+            "48an": 297,
+            "45an": 290,
+            "33an": 195
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "57an": 480,
+            "55an": 471,
+            "48an": 408,
+            "45an": 396,
+            "33an": 278
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "57an": 331,
+            "55an": 322,
+            "48an": 322,
+            "45an": 260,
+            "33an": 202
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "57an": 323,
+            "55an": 323,
+            "48an": 261,
+            "45an": 253,
+            "33an": 198
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "57an": 434,
+            "55an": 424,
+            "48an": 359,
+            "45an": 359,
+            "33an": 291
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "57an": 347,
+            "55an": 347,
+            "48an": 288,
+            "45an": 288,
+            "33an": 212
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "57an": 143,
+            "55an": 143,
+            "48an": 124,
+            "45an": 124,
+            "33an": 62
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "57an": 353,
+            "55an": 353,
+            "48an": 274,
+            "45an": 274,
+            "33an": 196
+          }
+        }
+      }
+    }
+  ]
+}

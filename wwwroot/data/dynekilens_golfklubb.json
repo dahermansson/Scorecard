@@ -1,0 +1,179 @@
+{
+  "name": "Dynekilens Golfklubb",
+  "id": "dynekilens_golfklubb",
+  "courses": [
+    {
+      "name": "Dynekilens 18 H\u00E5lsbana",
+      "id": "dynekilens_18_halsbana",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 317,
+            "R\u00F6d": 264
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 347,
+            "R\u00F6d": 282
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 457,
+            "R\u00F6d": 350
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 318,
+            "R\u00F6d": 268
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 152,
+            "R\u00F6d": 127
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 239,
+            "R\u00F6d": 197
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 148,
+            "R\u00F6d": 115
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 275,
+            "R\u00F6d": 233
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 253,
+            "R\u00F6d": 221
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 126
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 319,
+            "R\u00F6d": 252
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 155,
+            "R\u00F6d": 131
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "Gul": 402,
+            "R\u00F6d": 326
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 308,
+            "R\u00F6d": 257
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 450,
+            "R\u00F6d": 386
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 147,
+            "R\u00F6d": 108
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 385,
+            "R\u00F6d": 315
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "Gul": 430,
+            "R\u00F6d": 354
+          }
+        }
+      }
+    }
+  ]
+}

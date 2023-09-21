@@ -1,0 +1,231 @@
+{
+  "name": "T\u00F6reboda Golfklubb",
+  "id": "toreboda_golfklubb",
+  "courses": [
+    {
+      "name": "M\u00E5nsarudsbanan",
+      "id": "mansarudsbanan",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "53vit": {
+            "cr": null,
+            "sr": null
+          },
+          "51gul": {
+            "cr": null,
+            "sr": null
+          },
+          "47bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "43r\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "53vit": {
+            "cr": null,
+            "sr": null
+          },
+          "51gul": {
+            "cr": null,
+            "sr": null
+          },
+          "47bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "43r\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "53vit": 322,
+            "51gul": 315,
+            "47bl\u00E5": 296,
+            "43r\u00F6d": 275
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "53vit": 179,
+            "51gul": 171,
+            "47bl\u00E5": 153,
+            "43r\u00F6d": 124
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "53vit": 323,
+            "51gul": 314,
+            "47bl\u00E5": 296,
+            "43r\u00F6d": 242
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "53vit": 306,
+            "51gul": 290,
+            "47bl\u00E5": 250,
+            "43r\u00F6d": 250
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "53vit": 445,
+            "51gul": 435,
+            "47bl\u00E5": 364,
+            "43r\u00F6d": 344
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "53vit": 348,
+            "51gul": 339,
+            "47bl\u00E5": 319,
+            "43r\u00F6d": 267
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "53vit": 464,
+            "51gul": 454,
+            "47bl\u00E5": 425,
+            "43r\u00F6d": 401
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "53vit": 170,
+            "51gul": 156,
+            "47bl\u00E5": 146,
+            "43r\u00F6d": 135
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "53vit": 378,
+            "51gul": 370,
+            "47bl\u00E5": 295,
+            "43r\u00F6d": 295
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "53vit": 112,
+            "51gul": 106,
+            "47bl\u00E5": 106,
+            "43r\u00F6d": 95
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "53vit": 294,
+            "51gul": 279,
+            "47bl\u00E5": 279,
+            "43r\u00F6d": 210
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "53vit": 252,
+            "51gul": 248,
+            "47bl\u00E5": 248,
+            "43r\u00F6d": 223
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "53vit": 122,
+            "51gul": 118,
+            "47bl\u00E5": 118,
+            "43r\u00F6d": 90
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "53vit": 303,
+            "51gul": 293,
+            "47bl\u00E5": 282,
+            "43r\u00F6d": 266
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "53vit": 188,
+            "51gul": 178,
+            "47bl\u00E5": 178,
+            "43r\u00F6d": 166
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "53vit": 333,
+            "51gul": 323,
+            "47bl\u00E5": 312,
+            "43r\u00F6d": 285
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "53vit": 328,
+            "51gul": 325,
+            "47bl\u00E5": 293,
+            "43r\u00F6d": 275
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "53vit": 434,
+            "51gul": 418,
+            "47bl\u00E5": 378,
+            "43r\u00F6d": 346
+          }
+        }
+      }
+    }
+  ]
+}
