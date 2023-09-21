@@ -1,0 +1,179 @@
+{
+  "name": "M\u00E4larbadens Golfklubb",
+  "id": "malarbadens_golfklubb",
+  "courses": [
+    {
+      "name": "18-h\u00E5laren",
+      "id": "18-halaren",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "51": {
+            "cr": null,
+            "sr": null
+          },
+          "45": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "51": {
+            "cr": null,
+            "sr": null
+          },
+          "45": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "51": 304,
+            "45": 295
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "51": 246,
+            "45": 226
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "51": 150,
+            "45": 105
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "51": 249,
+            "45": 230
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "51": 431,
+            "45": 386
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "51": 453,
+            "45": 370
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "51": 288,
+            "45": 244
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "51": 130,
+            "45": 115
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "51": 305,
+            "45": 257
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "51": 295,
+            "45": 282
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "51": 295,
+            "45": 246
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "51": 165,
+            "45": 120
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "51": 259,
+            "45": 230
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "51": 408,
+            "45": 374
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "51": 343,
+            "45": 305
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "51": 311,
+            "45": 282
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "51": 115,
+            "45": 100
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "51": 324,
+            "45": 305
+          }
+        }
+      }
+    }
+  ]
+}

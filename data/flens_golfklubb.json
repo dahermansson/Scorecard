@@ -1,0 +1,231 @@
+{
+  "name": "Flens Golfklubb",
+  "id": "flens_golfklubb",
+  "courses": [
+    {
+      "name": "Norrtorps Golfbana",
+      "id": "norrtorps_golfbana",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 304,
+            "Bl\u00E5": 284,
+            "R\u00F6d": 284,
+            "Orange": 225
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 351,
+            "Bl\u00E5": 351,
+            "R\u00F6d": 314,
+            "Orange": 268
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 158,
+            "Bl\u00E5": 158,
+            "R\u00F6d": 135,
+            "Orange": 108
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "Gul": 476,
+            "Bl\u00E5": 379,
+            "R\u00F6d": 379,
+            "Orange": 313
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 328,
+            "Bl\u00E5": 328,
+            "R\u00F6d": 267,
+            "Orange": 267
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 136,
+            "Bl\u00E5": 136,
+            "R\u00F6d": 127,
+            "Orange": 114
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Gul": 457,
+            "Bl\u00E5": 368,
+            "R\u00F6d": 368,
+            "Orange": 308
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 300,
+            "Bl\u00E5": 266,
+            "R\u00F6d": 266,
+            "Orange": 216
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 307,
+            "Bl\u00E5": 307,
+            "R\u00F6d": 274,
+            "Orange": 206
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 317,
+            "Bl\u00E5": 317,
+            "R\u00F6d": 262,
+            "Orange": 214
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Gul": 448,
+            "Bl\u00E5": 357,
+            "R\u00F6d": 357,
+            "Orange": 309
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 127,
+            "Bl\u00E5": 127,
+            "R\u00F6d": 114,
+            "Orange": 90
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 18,
+          "distances": {
+            "Gul": 429,
+            "Bl\u00E5": 429,
+            "R\u00F6d": 370,
+            "Orange": 322
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 355,
+            "Bl\u00E5": 355,
+            "R\u00F6d": 312,
+            "Orange": 251
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 130,
+            "Bl\u00E5": 123,
+            "R\u00F6d": 123,
+            "Orange": 113
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 267,
+            "Bl\u00E5": 267,
+            "R\u00F6d": 216,
+            "Orange": 207
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 361,
+            "Bl\u00E5": 321,
+            "R\u00F6d": 321,
+            "Orange": 280
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 280,
+            "Bl\u00E5": 270,
+            "R\u00F6d": 270,
+            "Orange": 200
+          }
+        }
+      }
+    }
+  ]
+}

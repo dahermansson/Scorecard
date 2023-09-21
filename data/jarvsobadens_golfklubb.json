@@ -1,0 +1,179 @@
+{
+  "name": "J\u00E4rvs\u00F6badens Golfklubb",
+  "id": "jarvsobadens_golfklubb",
+  "courses": [
+    {
+      "name": "Berga Banan",
+      "id": "berga_banan",
+      "par": 60,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 285,
+            "R\u00F6d": 260
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 220,
+            "R\u00F6d": 165
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 180,
+            "R\u00F6d": 145
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 165,
+            "R\u00F6d": 135
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 115
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 250,
+            "R\u00F6d": 200
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 120
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 105
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 100,
+            "R\u00F6d": 100
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 285,
+            "R\u00F6d": 260
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 220,
+            "R\u00F6d": 165
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 180,
+            "R\u00F6d": 145
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 165,
+            "R\u00F6d": 135
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 115
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 250,
+            "R\u00F6d": 200
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 120
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 105
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 100,
+            "R\u00F6d": 100
+          }
+        }
+      }
+    }
+  ]
+}

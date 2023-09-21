@@ -1,0 +1,205 @@
+{
+  "name": "Friiberghs Golfklubb",
+  "id": "friiberghs_golfklubb",
+  "courses": [
+    {
+      "name": "Friibergh",
+      "id": "friibergh",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Gul": 222,
+            "Bl\u00E5": 222,
+            "R\u00F6d": 207
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 122,
+            "Bl\u00E5": 122,
+            "R\u00F6d": 110
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "Gul": 470,
+            "Bl\u00E5": 362,
+            "R\u00F6d": 362
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Gul": 137,
+            "Bl\u00E5": 137,
+            "R\u00F6d": 125
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 364,
+            "Bl\u00E5": 364,
+            "R\u00F6d": 314
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 245,
+            "Bl\u00E5": 205,
+            "R\u00F6d": 205
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Gul": 430,
+            "Bl\u00E5": 430,
+            "R\u00F6d": 340
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 346,
+            "Bl\u00E5": 287,
+            "R\u00F6d": 287
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 158,
+            "Bl\u00E5": 144,
+            "R\u00F6d": 144
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 360,
+            "Bl\u00E5": 360,
+            "R\u00F6d": 288
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "Gul": 456,
+            "Bl\u00E5": 385,
+            "R\u00F6d": 385
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 17,
+          "distances": {
+            "Gul": 435,
+            "Bl\u00E5": 435,
+            "R\u00F6d": 345
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 147,
+            "Bl\u00E5": 147,
+            "R\u00F6d": 132
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 350,
+            "Bl\u00E5": 350,
+            "R\u00F6d": 305
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 125,
+            "Bl\u00E5": 105,
+            "R\u00F6d": 105
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 353,
+            "Bl\u00E5": 353,
+            "R\u00F6d": 301
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 157,
+            "Bl\u00E5": 123,
+            "R\u00F6d": 123
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 482,
+            "Bl\u00E5": 403,
+            "R\u00F6d": 403
+          }
+        }
+      }
+    }
+  ]
+}

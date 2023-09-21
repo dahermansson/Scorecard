@@ -1,0 +1,179 @@
+{
+  "name": "L\u00E4ck\u00F6 Golfklubb",
+  "id": "lacko_golfklubb",
+  "courses": [
+    {
+      "name": "L\u00E4ck\u00F6 Golfklubb",
+      "id": "lacko_golfklubb",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Gul": 455,
+            "R\u00F6d": 381
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 303,
+            "R\u00F6d": 257
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 119,
+            "R\u00F6d": 95
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 497,
+            "R\u00F6d": 398
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 354,
+            "R\u00F6d": 303
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 124,
+            "R\u00F6d": 90
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 333,
+            "R\u00F6d": 275
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 350,
+            "R\u00F6d": 295
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 180,
+            "R\u00F6d": 130
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "Gul": 478,
+            "R\u00F6d": 396
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Gul": 330,
+            "R\u00F6d": 288
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 380,
+            "R\u00F6d": 320
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 103
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 328,
+            "R\u00F6d": 281
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 412,
+            "R\u00F6d": 339
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 497,
+            "R\u00F6d": 413
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 333,
+            "R\u00F6d": 288
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 353,
+            "R\u00F6d": 283
+          }
+        }
+      }
+    }
+  ]
+}

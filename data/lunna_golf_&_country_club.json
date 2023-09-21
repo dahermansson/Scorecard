@@ -1,0 +1,179 @@
+{
+  "name": "Lunna Golf \u0026 Country Club",
+  "id": "lunna_golf_\u0026_country_club",
+  "courses": [
+    {
+      "name": "Lunna Golf \u0026 Country Club",
+      "id": "lunna_golf_\u0026_country_club",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "52": {
+            "cr": null,
+            "sr": null
+          },
+          "42": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "52": {
+            "cr": null,
+            "sr": null
+          },
+          "42": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "52": 358,
+            "42": 305
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "52": 492,
+            "42": 374
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "52": 326,
+            "42": 244
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "52": 295,
+            "42": 231
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "52": 415,
+            "42": 305
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "52": 139,
+            "42": 115
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "52": 330,
+            "42": 275
+          }
+        },
+        "8": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "52": 435,
+            "42": 355
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "52": 115,
+            "42": 87
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "52": 395,
+            "42": 339
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "52": 118,
+            "42": 83
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "52": 266,
+            "42": 250
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "52": 163,
+            "42": 131
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "52": 315,
+            "42": 270
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "52": 177,
+            "42": 127
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "52": 282,
+            "42": 235
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "52": 148,
+            "42": 110
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "52": 394,
+            "42": 335
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "name": "Askersunds Golfklubb",
+  "id": "askersunds_golfklubb",
+  "courses": [
+    {
+      "name": "Askersund.",
+      "id": "askersund.",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          },
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          },
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Svart": 328,
+            "Vit": 321,
+            "Gul": 321,
+            "Bl\u00E5": 260,
+            "R\u00F6d": 227
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Svart": 361,
+            "Vit": 361,
+            "Gul": 317,
+            "Bl\u00E5": 317,
+            "R\u00F6d": 262
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Svart": 414,
+            "Vit": 413,
+            "Gul": 413,
+            "Bl\u00E5": 375,
+            "R\u00F6d": 276
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Svart": 190,
+            "Vit": 156,
+            "Gul": 156,
+            "Bl\u00E5": 118,
+            "R\u00F6d": 86
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Svart": 343,
+            "Vit": 312,
+            "Gul": 312,
+            "Bl\u00E5": 264,
+            "R\u00F6d": 228
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Svart": 166,
+            "Vit": 157,
+            "Gul": 157,
+            "Bl\u00E5": 148,
+            "R\u00F6d": 109
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Svart": 453,
+            "Vit": 378,
+            "Gul": 281,
+            "Bl\u00E5": 281,
+            "R\u00F6d": 251
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Svart": 355,
+            "Vit": 320,
+            "Gul": 320,
+            "Bl\u00E5": 267,
+            "R\u00F6d": 235
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Svart": 460,
+            "Vit": 440,
+            "Gul": 373,
+            "Bl\u00E5": 373,
+            "R\u00F6d": 373
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Svart": 382,
+            "Vit": 352,
+            "Gul": 352,
+            "Bl\u00E5": 300,
+            "R\u00F6d": 255
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Svart": 357,
+            "Vit": 335,
+            "Gul": 335,
+            "Bl\u00E5": 285,
+            "R\u00F6d": 240
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Svart": 149,
+            "Vit": 136,
+            "Gul": 136,
+            "Bl\u00E5": 110,
+            "R\u00F6d": 89
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Svart": 499,
+            "Vit": 453,
+            "Gul": 391,
+            "Bl\u00E5": 391,
+            "R\u00F6d": 322
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Svart": 294,
+            "Vit": 294,
+            "Gul": 256,
+            "Bl\u00E5": 256,
+            "R\u00F6d": 205
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Svart": 445,
+            "Vit": 389,
+            "Gul": 334,
+            "Bl\u00E5": 334,
+            "R\u00F6d": 303
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "Svart": 446,
+            "Vit": 429,
+            "Gul": 368,
+            "Bl\u00E5": 368,
+            "R\u00F6d": 337
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Svart": 164,
+            "Vit": 146,
+            "Gul": 146,
+            "Bl\u00E5": 129,
+            "R\u00F6d": 96
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Svart": 395,
+            "Vit": 364,
+            "Gul": 313,
+            "Bl\u00E5": 313,
+            "R\u00F6d": 265
+          }
+        }
+      }
+    }
+  ]
+}

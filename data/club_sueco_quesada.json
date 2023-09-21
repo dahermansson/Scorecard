@@ -1,0 +1,179 @@
+{
+  "name": "Club Sueco Quesada",
+  "id": "club_sueco_quesada",
+  "courses": [
+    {
+      "name": "La Marquesa",
+      "id": "la_marquesa",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 365,
+            "R\u00F6d": 301
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Gul": 465,
+            "R\u00F6d": 423
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 367,
+            "R\u00F6d": 331
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 307,
+            "R\u00F6d": 243
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 359,
+            "R\u00F6d": 269
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 165,
+            "R\u00F6d": 142
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Gul": 478,
+            "R\u00F6d": 405
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 119,
+            "R\u00F6d": 102
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 541,
+            "R\u00F6d": 507
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 304,
+            "R\u00F6d": 274
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 306,
+            "R\u00F6d": 277
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 167,
+            "R\u00F6d": 145
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 362,
+            "R\u00F6d": 324
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 360,
+            "R\u00F6d": 333
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 283,
+            "R\u00F6d": 230
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 109,
+            "R\u00F6d": 89
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 148,
+            "R\u00F6d": 126
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "Gul": 459,
+            "R\u00F6d": 423
+          }
+        }
+      }
+    }
+  ]
+}

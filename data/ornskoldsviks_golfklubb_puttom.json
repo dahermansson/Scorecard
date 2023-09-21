@@ -1,0 +1,179 @@
+{
+  "name": "\u00D6rnsk\u00F6ldsviks Golfklubb Puttom",
+  "id": "ornskoldsviks_golfklubb_puttom",
+  "courses": [
+    {
+      "name": "Puttoms 18 h\u00E5l",
+      "id": "puttoms_18_hal",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "57": {
+            "cr": null,
+            "sr": null
+          },
+          "48": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "57": {
+            "cr": null,
+            "sr": null
+          },
+          "48": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "57": 305,
+            "48": 270
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "57": 310,
+            "48": 280
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "57": 135,
+            "48": 120
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "57": 445,
+            "48": 380
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "57": 160,
+            "48": 130
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "57": 320,
+            "48": 285
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "57": 355,
+            "48": 295
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "57": 340,
+            "48": 275
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "57": 465,
+            "48": 405
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "57": 365,
+            "48": 330
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "57": 305,
+            "48": 265
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "57": 110,
+            "48": 95
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "57": 460,
+            "48": 385
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "57": 465,
+            "48": 405
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "57": 165,
+            "48": 135
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "57": 280,
+            "48": 250
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "57": 385,
+            "48": 335
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "57": 335,
+            "48": 310
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "name": "Fogd\u00F6 Golfklubb",
+  "id": "fogdo_golfklubb",
+  "courses": [
+    {
+      "name": "Fogd\u00F6 Golfbana 18-h\u00E5l",
+      "id": "fogdo_golfbana_18-hal",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 272,
+            "R\u00F6d": 272
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 141,
+            "R\u00F6d": 116
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 294,
+            "R\u00F6d": 238
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 125
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 288,
+            "R\u00F6d": 231
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 310,
+            "R\u00F6d": 264
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Gul": 438,
+            "R\u00F6d": 388
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 330,
+            "R\u00F6d": 272
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 181,
+            "R\u00F6d": 137
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 451,
+            "R\u00F6d": 351
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "Gul": 437,
+            "R\u00F6d": 372
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 138,
+            "R\u00F6d": 110
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 386,
+            "R\u00F6d": 311
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 126,
+            "R\u00F6d": 126
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Gul": 517,
+            "R\u00F6d": 399
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 281,
+            "R\u00F6d": 226
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 118,
+            "R\u00F6d": 86
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 284,
+            "R\u00F6d": 237
+          }
+        }
+      }
+    },
+    {
+      "name": "Fogd\u00F6 Golfbana 9-h\u00E5l",
+      "id": "fogdo_golfbana_9-hal",
+      "par": 66,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 272,
+            "R\u00F6d": 272
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 141,
+            "R\u00F6d": 116
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 294,
+            "R\u00F6d": 238
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 125
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 288,
+            "R\u00F6d": 231
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 310,
+            "R\u00F6d": 264
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Gul": 281,
+            "R\u00F6d": 226
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Gul": 118,
+            "R\u00F6d": 86
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 284,
+            "R\u00F6d": 237
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 272,
+            "R\u00F6d": 272
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 141,
+            "R\u00F6d": 116
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 294,
+            "R\u00F6d": 238
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 125
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 288,
+            "R\u00F6d": 231
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 310,
+            "R\u00F6d": 264
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Gul": 281,
+            "R\u00F6d": 226
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Gul": 118,
+            "R\u00F6d": 86
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 284,
+            "R\u00F6d": 237
+          }
+        }
+      }
+    }
+  ]
+}

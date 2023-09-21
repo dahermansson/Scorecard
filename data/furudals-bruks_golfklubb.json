@@ -1,0 +1,179 @@
+{
+  "name": "Furudals-Bruks Golfklubb",
+  "id": "furudals-bruks_golfklubb",
+  "courses": [
+    {
+      "name": "Furudals Bruks GK",
+      "id": "furudals_bruks_gk",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "56": {
+            "cr": null,
+            "sr": null
+          },
+          "50": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "56": {
+            "cr": null,
+            "sr": null
+          },
+          "50": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "56": 300,
+            "50": 276
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "56": 124,
+            "50": 102
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "56": 362,
+            "50": 343
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "56": 300,
+            "50": 274
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "56": 470,
+            "50": 405
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "56": 153,
+            "50": 140
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "56": 320,
+            "50": 297
+          }
+        },
+        "8": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "56": 458,
+            "50": 388
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "56": 340,
+            "50": 307
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "56": 327,
+            "50": 289
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "56": 271,
+            "50": 251
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "56": 338,
+            "50": 304
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "56": 118,
+            "50": 118
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "56": 436,
+            "50": 364
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "56": 164,
+            "50": 143
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "56": 470,
+            "50": 409
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "56": 302,
+            "50": 258
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "56": 358,
+            "50": 331
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "name": "Mariestads Golfklubb",
+  "id": "mariestads_golfklubb",
+  "courses": [
+    {
+      "name": "Mariestads GK",
+      "id": "mariestads_gk",
+      "par": 73,
+      "ratings": {
+        "men": {
+          "62an": {
+            "cr": null,
+            "sr": null
+          },
+          "57an": {
+            "cr": null,
+            "sr": null
+          },
+          "51an": {
+            "cr": null,
+            "sr": null
+          },
+          "46an": {
+            "cr": null,
+            "sr": null
+          },
+          "36an": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "62an": {
+            "cr": null,
+            "sr": null
+          },
+          "57an": {
+            "cr": null,
+            "sr": null
+          },
+          "51an": {
+            "cr": null,
+            "sr": null
+          },
+          "46an": {
+            "cr": null,
+            "sr": null
+          },
+          "36an": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "62an": 305,
+            "57an": 285,
+            "51an": 285,
+            "46an": 265,
+            "36an": 170
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "62an": 505,
+            "57an": 455,
+            "51an": 345,
+            "46an": 345,
+            "36an": 290
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "62an": 370,
+            "57an": 360,
+            "51an": 255,
+            "46an": 255,
+            "36an": 215
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "62an": 165,
+            "57an": 145,
+            "51an": 145,
+            "46an": 135,
+            "36an": 70
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "62an": 355,
+            "57an": 340,
+            "51an": 310,
+            "46an": 310,
+            "36an": 210
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "62an": 160,
+            "57an": 145,
+            "51an": 120,
+            "46an": 120,
+            "36an": 100
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "62an": 370,
+            "57an": 345,
+            "51an": 260,
+            "46an": 260,
+            "36an": 210
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "62an": 320,
+            "57an": 300,
+            "51an": 300,
+            "46an": 270,
+            "36an": 200
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "62an": 495,
+            "57an": 475,
+            "51an": 475,
+            "46an": 400,
+            "36an": 325
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "62an": 335,
+            "57an": 320,
+            "51an": 210,
+            "46an": 210,
+            "36an": 170
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "62an": 320,
+            "57an": 285,
+            "51an": 285,
+            "46an": 205,
+            "36an": 180
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "62an": 330,
+            "57an": 305,
+            "51an": 305,
+            "46an": 290,
+            "36an": 210
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "62an": 480,
+            "57an": 440,
+            "51an": 440,
+            "46an": 350,
+            "36an": 280
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "62an": 140,
+            "57an": 130,
+            "51an": 140,
+            "46an": 115,
+            "36an": 85
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "62an": 415,
+            "57an": 390,
+            "51an": 265,
+            "46an": 265,
+            "36an": 220
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "62an": 195,
+            "57an": 160,
+            "51an": 125,
+            "46an": 125,
+            "36an": 95
+          }
+        },
+        "17": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "62an": 460,
+            "57an": 440,
+            "51an": 440,
+            "46an": 340,
+            "36an": 280
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "62an": 470,
+            "57an": 425,
+            "51an": 375,
+            "46an": 375,
+            "36an": 300
+          }
+        }
+      }
+    }
+  ]
+}

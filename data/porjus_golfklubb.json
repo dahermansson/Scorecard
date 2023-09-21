@@ -1,0 +1,179 @@
+{
+  "name": "Porjus Golfklubb",
+  "id": "porjus_golfklubb",
+  "courses": [
+    {
+      "name": "Porjus Golfbana",
+      "id": "porjus_golfbana",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 288,
+            "R\u00F6d": 270
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 375,
+            "R\u00F6d": 356
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 286,
+            "R\u00F6d": 273
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 244,
+            "R\u00F6d": 193
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 126,
+            "R\u00F6d": 117
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 219,
+            "R\u00F6d": 196
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 119,
+            "R\u00F6d": 108
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 252,
+            "R\u00F6d": 202
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 262,
+            "R\u00F6d": 230
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 270,
+            "R\u00F6d": 222
+          }
+        },
+        "11": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 369,
+            "R\u00F6d": 357
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 312,
+            "R\u00F6d": 286
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 255,
+            "R\u00F6d": 225
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 126
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 252,
+            "R\u00F6d": 229
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 122,
+            "R\u00F6d": 119
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 240,
+            "R\u00F6d": 190
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 314,
+            "R\u00F6d": 284
+          }
+        }
+      }
+    }
+  ]
+}

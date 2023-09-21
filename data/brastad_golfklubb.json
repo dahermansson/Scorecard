@@ -1,0 +1,179 @@
+{
+  "name": "Brastad Golfklubb",
+  "id": "brastad_golfklubb",
+  "courses": [
+    {
+      "name": "Brastad Golfcenter 18 h\u00E5l",
+      "id": "brastad_golfcenter_18_hal",
+      "par": 58,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 87,
+            "R\u00F6d": 87
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 118,
+            "R\u00F6d": 118
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Gul": 149,
+            "R\u00F6d": 131
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 120
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 107,
+            "R\u00F6d": 107
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 148,
+            "R\u00F6d": 136
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 177,
+            "R\u00F6d": 159
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 233,
+            "R\u00F6d": 215
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 321,
+            "R\u00F6d": 299
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 87,
+            "R\u00F6d": 87
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 118,
+            "R\u00F6d": 118
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Gul": 149,
+            "R\u00F6d": 131
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 120
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 107,
+            "R\u00F6d": 107
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 148,
+            "R\u00F6d": 136
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 177,
+            "R\u00F6d": 159
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 233,
+            "R\u00F6d": 215
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 321,
+            "R\u00F6d": 299
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "name": "Strands Golfklubb",
+  "id": "strands_golfklubb",
+  "courses": [
+    {
+      "name": "Strands GK",
+      "id": "strands_gk",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Vit": 310,
+            "Gul": 273,
+            "R\u00F6d": 220
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Vit": 155,
+            "Gul": 135,
+            "R\u00F6d": 120
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Vit": 362,
+            "Gul": 332,
+            "R\u00F6d": 273
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Vit": 300,
+            "Gul": 295,
+            "R\u00F6d": 240
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Vit": 190,
+            "Gul": 170,
+            "R\u00F6d": 140
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Vit": 460,
+            "Gul": 450,
+            "R\u00F6d": 380
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Vit": 155,
+            "Gul": 140,
+            "R\u00F6d": 100
+          }
+        },
+        "8": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Vit": 530,
+            "Gul": 520,
+            "R\u00F6d": 420
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Vit": 175,
+            "Gul": 150,
+            "R\u00F6d": 130
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Vit": 445,
+            "Gul": 420,
+            "R\u00F6d": 410
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Vit": 350,
+            "Gul": 330,
+            "R\u00F6d": 285
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Vit": 155,
+            "Gul": 125,
+            "R\u00F6d": 115
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Vit": 430,
+            "Gul": 425,
+            "R\u00F6d": 335
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Vit": 455,
+            "Gul": 445,
+            "R\u00F6d": 395
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Vit": 195,
+            "Gul": 145,
+            "R\u00F6d": 105
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Vit": 285,
+            "Gul": 275,
+            "R\u00F6d": 250
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Vit": 375,
+            "Gul": 355,
+            "R\u00F6d": 300
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Vit": 175,
+            "Gul": 155,
+            "R\u00F6d": 115
+          }
+        }
+      }
+    }
+  ]
+}

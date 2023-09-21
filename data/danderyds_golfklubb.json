@@ -1,0 +1,179 @@
+{
+  "name": "Danderyds Golfklubb",
+  "id": "danderyds_golfklubb",
+  "courses": [
+    {
+      "name": "Danderyds GK",
+      "id": "danderyds_gk",
+      "par": 66,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 271,
+            "R\u00F6d": 248
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 108,
+            "R\u00F6d": 93
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 232,
+            "R\u00F6d": 203
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 294,
+            "R\u00F6d": 253
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 346,
+            "R\u00F6d": 300
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 262,
+            "R\u00F6d": 231
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 238,
+            "R\u00F6d": 205
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 120,
+            "R\u00F6d": 101
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 129
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 271,
+            "R\u00F6d": 240
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 108,
+            "R\u00F6d": 93
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 232,
+            "R\u00F6d": 203
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 294,
+            "R\u00F6d": 253
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 346,
+            "R\u00F6d": 300
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 262,
+            "R\u00F6d": 231
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 238,
+            "R\u00F6d": 205
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 120,
+            "R\u00F6d": 101
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 150,
+            "R\u00F6d": 129
+          }
+        }
+      }
+    }
+  ]
+}

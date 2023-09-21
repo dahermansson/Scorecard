@@ -1,0 +1,179 @@
+{
+  "name": "Binga Golf",
+  "id": "binga_golf",
+  "courses": [
+    {
+      "name": "Binga Golf",
+      "id": "binga_golf",
+      "par": 58,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 255,
+            "R\u00F6d": 222
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 111,
+            "R\u00F6d": 111
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 123,
+            "R\u00F6d": 123
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 152,
+            "R\u00F6d": 152
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 140
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 111,
+            "R\u00F6d": 111
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Gul": 155,
+            "R\u00F6d": 155
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Gul": 178,
+            "R\u00F6d": 144
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 331,
+            "R\u00F6d": 291
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 255,
+            "R\u00F6d": 222
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 111,
+            "R\u00F6d": 111
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 123,
+            "R\u00F6d": 123
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 152,
+            "R\u00F6d": 152
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 140,
+            "R\u00F6d": 140
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 111,
+            "R\u00F6d": 111
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 4,
+          "distances": {
+            "Gul": 155,
+            "R\u00F6d": 155
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Gul": 178,
+            "R\u00F6d": 144
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 331,
+            "R\u00F6d": 291
+          }
+        }
+      }
+    }
+  ]
+}

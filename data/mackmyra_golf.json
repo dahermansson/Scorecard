@@ -1,0 +1,179 @@
+{
+  "name": "Mackmyra Golf",
+  "id": "mackmyra_golf",
+  "courses": [
+    {
+      "name": "9-h\u00E5lsbana - Gr\u00E4sgreener",
+      "id": "9-halsbana_-_grasgreener",
+      "par": 68,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 406,
+            "R\u00F6d": 374
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 237,
+            "R\u00F6d": 159
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 408,
+            "R\u00F6d": 336
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 87,
+            "R\u00F6d": 87
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 224,
+            "R\u00F6d": 224
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 118,
+            "R\u00F6d": 76
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 126,
+            "R\u00F6d": 87
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 159,
+            "R\u00F6d": 131
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 282,
+            "R\u00F6d": 237
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 406,
+            "R\u00F6d": 374
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 237,
+            "R\u00F6d": 159
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 408,
+            "R\u00F6d": 336
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 87,
+            "R\u00F6d": 87
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 224,
+            "R\u00F6d": 224
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 118,
+            "R\u00F6d": 76
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 126,
+            "R\u00F6d": 87
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 159,
+            "R\u00F6d": 131
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 282,
+            "R\u00F6d": 237
+          }
+        }
+      }
+    }
+  ]
+}

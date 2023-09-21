@@ -1,0 +1,205 @@
+{
+  "name": "Sandn\u00E4set Golf",
+  "id": "sandnaset_golf",
+  "courses": [
+    {
+      "name": "18-H\u00E5lsbanan",
+      "id": "18-halsbanan",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          },
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 299,
+            "R\u00F6d": 243,
+            "Orange": 230
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 135,
+            "R\u00F6d": 114,
+            "Orange": 95
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 366,
+            "R\u00F6d": 295,
+            "Orange": 270
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "Gul": 468,
+            "R\u00F6d": 368,
+            "Orange": 330
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 357,
+            "R\u00F6d": 290,
+            "Orange": 265
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 290,
+            "R\u00F6d": 233,
+            "Orange": 195
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 144,
+            "R\u00F6d": 115,
+            "Orange": 100
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 360,
+            "R\u00F6d": 285,
+            "Orange": 260
+          }
+        },
+        "9": {
+          "par": 5,
+          "index": 10,
+          "distances": {
+            "Gul": 468,
+            "R\u00F6d": 368,
+            "Orange": 330
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 357,
+            "R\u00F6d": 290,
+            "Orange": 265
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 290,
+            "R\u00F6d": 233,
+            "Orange": 195
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 144,
+            "R\u00F6d": 115,
+            "Orange": 100
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 360,
+            "R\u00F6d": 285,
+            "Orange": 260
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 302,
+            "R\u00F6d": 245,
+            "Orange": 210
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 149,
+            "R\u00F6d": 118,
+            "Orange": 115
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 390,
+            "R\u00F6d": 310,
+            "Orange": 275
+          }
+        },
+        "17": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "Gul": 454,
+            "R\u00F6d": 374,
+            "Orange": 340
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 362,
+            "R\u00F6d": 295,
+            "Orange": 260
+          }
+        }
+      }
+    }
+  ]
+}

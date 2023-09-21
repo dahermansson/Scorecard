@@ -1,0 +1,34 @@
+{
+  "name": "\u00C4lvdalens Golfklubb",
+  "id": "alvdalens_golfklubb",
+  "courses": [
+    {
+      "name": "\u00C4lvdalens Golfbana",
+      "id": "alvdalens_golfbana",
+      "par": 3,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Gul": 123
+          }
+        }
+      }
+    }
+  ]
+}

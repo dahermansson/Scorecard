@@ -1,0 +1,179 @@
+{
+  "name": "Idrefj\u00E4llens Golfklubb",
+  "id": "idrefjallens_golfklubb",
+  "courses": [
+    {
+      "name": "Idre",
+      "id": "idre",
+      "par": 71,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": 70.8,
+            "sr": 143
+          },
+          "R\u00F6d": {
+            "cr": 66.8,
+            "sr": 134
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": 77.3,
+            "sr": 144
+          },
+          "R\u00F6d": {
+            "cr": 72.4,
+            "sr": 134
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 155,
+            "R\u00F6d": 130
+          }
+        },
+        "2": {
+          "par": 5,
+          "index": 8,
+          "distances": {
+            "Gul": 435,
+            "R\u00F6d": 390
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 145,
+            "R\u00F6d": 115
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 280,
+            "R\u00F6d": 265
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 160,
+            "R\u00F6d": 135
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Gul": 355,
+            "R\u00F6d": 305
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "Gul": 450,
+            "R\u00F6d": 385
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 355,
+            "R\u00F6d": 330
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 305,
+            "R\u00F6d": 255
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 305,
+            "R\u00F6d": 260
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 120,
+            "R\u00F6d": 110
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Gul": 450,
+            "R\u00F6d": 380
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 320,
+            "R\u00F6d": 285
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 160,
+            "R\u00F6d": 95
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Gul": 340,
+            "R\u00F6d": 285
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 485,
+            "R\u00F6d": 395
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 180,
+            "R\u00F6d": 145
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Gul": 465,
+            "R\u00F6d": 395
+          }
+        }
+      }
+    }
+  ]
+}

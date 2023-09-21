@@ -1,0 +1,179 @@
+{
+  "name": "Kiruna Golfklubb",
+  "id": "kiruna_golfklubb",
+  "courses": [
+    {
+      "name": "Kiruna - Iron Mine Course",
+      "id": "kiruna_-_iron_mine_course",
+      "par": 68,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 502,
+            "R\u00F6d": 450
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 320,
+            "R\u00F6d": 290
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 125,
+            "R\u00F6d": 125
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 308,
+            "R\u00F6d": 253
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 358,
+            "R\u00F6d": 284
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 295,
+            "R\u00F6d": 262
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 158,
+            "R\u00F6d": 129
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 328,
+            "R\u00F6d": 290
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 108,
+            "R\u00F6d": 90
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 502,
+            "R\u00F6d": 450
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 320,
+            "R\u00F6d": 290
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 125,
+            "R\u00F6d": 125
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 308,
+            "R\u00F6d": 253
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 358,
+            "R\u00F6d": 284
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 295,
+            "R\u00F6d": 262
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 158,
+            "R\u00F6d": 129
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 328,
+            "R\u00F6d": 290
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 108,
+            "R\u00F6d": 90
+          }
+        }
+      }
+    }
+  ]
+}

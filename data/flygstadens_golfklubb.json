@@ -1,0 +1,179 @@
+{
+  "name": "Flygstadens Golfklubb",
+  "id": "flygstadens_golfklubb",
+  "courses": [
+    {
+      "name": "Flygstadens GK 9-h\u00E5l",
+      "id": "flygstadens_gk_9-hal",
+      "par": 60,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 120
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 290,
+            "R\u00F6d": 275
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 99,
+            "R\u00F6d": 99
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 200,
+            "R\u00F6d": 190
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 145,
+            "R\u00F6d": 130
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 109,
+            "R\u00F6d": 109
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Gul": 156,
+            "R\u00F6d": 148
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Gul": 218,
+            "R\u00F6d": 200
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 112,
+            "R\u00F6d": 112
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 146,
+            "R\u00F6d": 120
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 290,
+            "R\u00F6d": 275
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 99,
+            "R\u00F6d": 99
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 200,
+            "R\u00F6d": 190
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 145,
+            "R\u00F6d": 130
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 109,
+            "R\u00F6d": 109
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 2,
+          "distances": {
+            "Gul": 156,
+            "R\u00F6d": 148
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Gul": 218,
+            "R\u00F6d": 200
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 112,
+            "R\u00F6d": 112
+          }
+        }
+      }
+    }
+  ]
+}

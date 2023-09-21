@@ -1,0 +1,153 @@
+{
+  "name": "SGF Tillst\u00E5nd Prispengar",
+  "id": "sgf_tillstand_prispengar",
+  "courses": [
+    {
+      "name": "Test Bana f\u00F6r SGF",
+      "id": "test_bana_for_sgf",
+      "par": 63,
+      "ratings": {
+        "men": {
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Orange": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 1,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 3,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Orange": 120
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Orange": 100
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 18,
+          "distances": {
+            "Orange": 120
+          }
+        }
+      }
+    }
+  ]
+}

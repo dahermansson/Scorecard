@@ -1,0 +1,179 @@
+{
+  "name": "Bolidens Golfklubb",
+  "id": "bolidens_golfklubb",
+  "courses": [
+    {
+      "name": "Bjurvattnets Golfbana",
+      "id": "bjurvattnets_golfbana",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 265,
+            "R\u00F6d": 250
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 156,
+            "R\u00F6d": 106
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Gul": 400,
+            "R\u00F6d": 317
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 144,
+            "R\u00F6d": 107
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 11,
+          "distances": {
+            "Gul": 466,
+            "R\u00F6d": 410
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 478,
+            "R\u00F6d": 361
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Gul": 325,
+            "R\u00F6d": 294
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 293,
+            "R\u00F6d": 260
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 82,
+            "R\u00F6d": 70
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 265,
+            "R\u00F6d": 250
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 156,
+            "R\u00F6d": 106
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 14,
+          "distances": {
+            "Gul": 400,
+            "R\u00F6d": 317
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 144,
+            "R\u00F6d": 107
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 12,
+          "distances": {
+            "Gul": 466,
+            "R\u00F6d": 410
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 478,
+            "R\u00F6d": 361
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Gul": 325,
+            "R\u00F6d": 294
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 293,
+            "R\u00F6d": 260
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 82,
+            "R\u00F6d": 70
+          }
+        }
+      }
+    }
+  ]
+}

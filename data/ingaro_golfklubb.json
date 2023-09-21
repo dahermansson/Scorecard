@@ -1,0 +1,456 @@
+{
+  "name": "Ingar\u00F6 Golfklubb",
+  "id": "ingaro_golfklubb",
+  "courses": [
+    {
+      "name": "Skogsbanan",
+      "id": "skogsbanan",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "Tee1": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee2": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee3": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee4": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Tee1": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee2": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee3": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee4": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Tee1": 370,
+            "Tee2": 340,
+            "Tee3": 340,
+            "Tee4": 295
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Tee1": 345,
+            "Tee2": 265,
+            "Tee3": 255,
+            "Tee4": 255
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Tee1": 190,
+            "Tee2": 180,
+            "Tee3": 165,
+            "Tee4": 150
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Tee1": 388,
+            "Tee2": 365,
+            "Tee3": 310,
+            "Tee4": 310
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Tee1": 320,
+            "Tee2": 315,
+            "Tee3": 265,
+            "Tee4": 265
+          }
+        },
+        "6": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Tee1": 130,
+            "Tee2": 110,
+            "Tee3": 100,
+            "Tee4": 90
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Tee1": 260,
+            "Tee2": 250,
+            "Tee3": 225,
+            "Tee4": 200
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Tee1": 115,
+            "Tee2": 105,
+            "Tee3": 105,
+            "Tee4": 95
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Tee1": 327,
+            "Tee2": 310,
+            "Tee3": 300,
+            "Tee4": 260
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Tee1": 340,
+            "Tee2": 305,
+            "Tee3": 305,
+            "Tee4": 285
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Tee1": 185,
+            "Tee2": 175,
+            "Tee3": 145,
+            "Tee4": 145
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "Tee1": 452,
+            "Tee2": 420,
+            "Tee3": 390,
+            "Tee4": 365
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Tee1": 290,
+            "Tee2": 290,
+            "Tee3": 290,
+            "Tee4": 275
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Tee1": 495,
+            "Tee2": 435,
+            "Tee3": 385,
+            "Tee4": 385
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "Tee1": 325,
+            "Tee2": 325,
+            "Tee3": 275,
+            "Tee4": 242
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Tee1": 315,
+            "Tee2": 315,
+            "Tee3": 315,
+            "Tee4": 260
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Tee1": 130,
+            "Tee2": 125,
+            "Tee3": 112,
+            "Tee4": 112
+          }
+        },
+        "18": {
+          "par": 5,
+          "index": 9,
+          "distances": {
+            "Tee1": 430,
+            "Tee2": 395,
+            "Tee3": 385,
+            "Tee4": 355
+          }
+        }
+      }
+    },
+    {
+      "name": "\u00C4ngsbanan",
+      "id": "angsbanan",
+      "par": 70,
+      "ratings": {
+        "men": {
+          "Tee1": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee2": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee3": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee4": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Tee1": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee2": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee3": {
+            "cr": null,
+            "sr": null
+          },
+          "Tee4": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Tee1": 280,
+            "Tee2": 275,
+            "Tee3": 235,
+            "Tee4": 230
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Tee1": 370,
+            "Tee2": 370,
+            "Tee3": 370,
+            "Tee4": 310
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Tee1": 115,
+            "Tee2": 115,
+            "Tee3": 95,
+            "Tee4": 85
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Tee1": 495,
+            "Tee2": 490,
+            "Tee3": 400,
+            "Tee4": 400
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Tee1": 170,
+            "Tee2": 170,
+            "Tee3": 140,
+            "Tee4": 110
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Tee1": 470,
+            "Tee2": 470,
+            "Tee3": 375,
+            "Tee4": 375
+          }
+        },
+        "7": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Tee1": 450,
+            "Tee2": 410,
+            "Tee3": 365,
+            "Tee4": 365
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Tee1": 175,
+            "Tee2": 150,
+            "Tee3": 150,
+            "Tee4": 120
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Tee1": 255,
+            "Tee2": 255,
+            "Tee3": 255,
+            "Tee4": 215
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Tee1": 345,
+            "Tee2": 320,
+            "Tee3": 310,
+            "Tee4": 280
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "Tee1": 330,
+            "Tee2": 330,
+            "Tee3": 275,
+            "Tee4": 275
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Tee1": 160,
+            "Tee2": 155,
+            "Tee3": 130,
+            "Tee4": 110
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Tee1": 305,
+            "Tee2": 305,
+            "Tee3": 305,
+            "Tee4": 215
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Tee1": 145,
+            "Tee2": 130,
+            "Tee3": 120,
+            "Tee4": 110
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "Tee1": 325,
+            "Tee2": 325,
+            "Tee3": 325,
+            "Tee4": 265
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "Tee1": 495,
+            "Tee2": 490,
+            "Tee3": 420,
+            "Tee4": 420
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Tee1": 140,
+            "Tee2": 125,
+            "Tee3": 125,
+            "Tee4": 105
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Tee1": 345,
+            "Tee2": 345,
+            "Tee3": 300,
+            "Tee4": 300
+          }
+        }
+      }
+    }
+  ]
+}

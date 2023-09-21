@@ -1,0 +1,179 @@
+{
+  "name": "Stjernfors Golfklubb",
+  "id": "stjernfors_golfklubb",
+  "courses": [
+    {
+      "name": "Stjernfors bana",
+      "id": "stjernfors_bana",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 11,
+          "distances": {
+            "Gul": 285,
+            "R\u00F6d": 250
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 148,
+            "R\u00F6d": 133
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 475,
+            "R\u00F6d": 405
+          }
+        },
+        "4": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Gul": 322,
+            "R\u00F6d": 274
+          }
+        },
+        "5": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 500,
+            "R\u00F6d": 410
+          }
+        },
+        "6": {
+          "par": 4,
+          "index": 15,
+          "distances": {
+            "Gul": 270,
+            "R\u00F6d": 227
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Gul": 350,
+            "R\u00F6d": 300
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "Gul": 355,
+            "R\u00F6d": 270
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 130,
+            "R\u00F6d": 110
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Gul": 285,
+            "R\u00F6d": 250
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 148,
+            "R\u00F6d": 133
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 475,
+            "R\u00F6d": 405
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Gul": 322,
+            "R\u00F6d": 274
+          }
+        },
+        "14": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 500,
+            "R\u00F6d": 410
+          }
+        },
+        "15": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Gul": 270,
+            "R\u00F6d": 227
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Gul": 350,
+            "R\u00F6d": 300
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "Gul": 355,
+            "R\u00F6d": 270
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 130,
+            "R\u00F6d": 110
+          }
+        }
+      }
+    }
+  ]
+}

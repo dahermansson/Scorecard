@@ -1,0 +1,179 @@
+{
+  "name": "Vimmerby Golfklubb",
+  "id": "vimmerby_golfklubb",
+  "courses": [
+    {
+      "name": "Vimmerby 9 h\u00E5lsslingan",
+      "id": "vimmerby_9_halsslingan",
+      "par": 62,
+      "ratings": {
+        "men": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 3,
+          "index": 7,
+          "distances": {
+            "Gul": 156,
+            "R\u00F6d": 156
+          }
+        },
+        "2": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Gul": 90,
+            "R\u00F6d": 90
+          }
+        },
+        "3": {
+          "par": 3,
+          "index": 9,
+          "distances": {
+            "Gul": 126,
+            "R\u00F6d": 126
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 1,
+          "distances": {
+            "Gul": 450,
+            "R\u00F6d": 407
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Gul": 120,
+            "R\u00F6d": 120
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 3,
+          "distances": {
+            "Gul": 460,
+            "R\u00F6d": 404
+          }
+        },
+        "7": {
+          "par": 3,
+          "index": 13,
+          "distances": {
+            "Gul": 108,
+            "R\u00F6d": 108
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 5,
+          "distances": {
+            "Gul": 160,
+            "R\u00F6d": 160
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "Gul": 87,
+            "R\u00F6d": 87
+          }
+        },
+        "10": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Gul": 156,
+            "R\u00F6d": 156
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 16,
+          "distances": {
+            "Gul": 90,
+            "R\u00F6d": 90
+          }
+        },
+        "12": {
+          "par": 3,
+          "index": 10,
+          "distances": {
+            "Gul": 126,
+            "R\u00F6d": 126
+          }
+        },
+        "13": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Gul": 450,
+            "R\u00F6d": 407
+          }
+        },
+        "14": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "Gul": 120,
+            "R\u00F6d": 120
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Gul": 460,
+            "R\u00F6d": 404
+          }
+        },
+        "16": {
+          "par": 3,
+          "index": 14,
+          "distances": {
+            "Gul": 108,
+            "R\u00F6d": 108
+          }
+        },
+        "17": {
+          "par": 3,
+          "index": 6,
+          "distances": {
+            "Gul": 160,
+            "R\u00F6d": 160
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Gul": 87,
+            "R\u00F6d": 87
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "name": "Vallda Golf \u0026 Country Club",
+  "id": "vallda_golf_\u0026_country_club",
+  "courses": [
+    {
+      "name": "Vallda G\u0026CC",
+      "id": "vallda_g\u0026cc",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          },
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Silver": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "Svart": {
+            "cr": null,
+            "sr": null
+          },
+          "Vit": {
+            "cr": null,
+            "sr": null
+          },
+          "Silver": {
+            "cr": null,
+            "sr": null
+          },
+          "Gul": {
+            "cr": null,
+            "sr": null
+          },
+          "Bl\u00E5": {
+            "cr": null,
+            "sr": null
+          },
+          "R\u00F6d": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 12,
+          "distances": {
+            "Svart": 390,
+            "Vit": 340,
+            "Silver": 340,
+            "Gul": 305,
+            "Bl\u00E5": 305,
+            "R\u00F6d": 275
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "Svart": 405,
+            "Vit": 360,
+            "Silver": 325,
+            "Gul": 325,
+            "Bl\u00E5": 325,
+            "R\u00F6d": 295
+          }
+        },
+        "3": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "Svart": 360,
+            "Vit": 335,
+            "Silver": 335,
+            "Gul": 325,
+            "Bl\u00E5": 325,
+            "R\u00F6d": 260
+          }
+        },
+        "4": {
+          "par": 5,
+          "index": 4,
+          "distances": {
+            "Svart": 515,
+            "Vit": 480,
+            "Silver": 480,
+            "Gul": 440,
+            "Bl\u00E5": 440,
+            "R\u00F6d": 415
+          }
+        },
+        "5": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "Svart": 135,
+            "Vit": 115,
+            "Silver": 115,
+            "Gul": 115,
+            "Bl\u00E5": 115,
+            "R\u00F6d": 85
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 2,
+          "distances": {
+            "Svart": 485,
+            "Vit": 465,
+            "Silver": 465,
+            "Gul": 465,
+            "Bl\u00E5": 420,
+            "R\u00F6d": 410
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 6,
+          "distances": {
+            "Svart": 410,
+            "Vit": 380,
+            "Silver": 355,
+            "Gul": 355,
+            "Bl\u00E5": 355,
+            "R\u00F6d": 305
+          }
+        },
+        "8": {
+          "par": 3,
+          "index": 8,
+          "distances": {
+            "Svart": 175,
+            "Vit": 160,
+            "Silver": 150,
+            "Gul": 150,
+            "Bl\u00E5": 120,
+            "R\u00F6d": 120
+          }
+        },
+        "9": {
+          "par": 4,
+          "index": 16,
+          "distances": {
+            "Svart": 340,
+            "Vit": 320,
+            "Silver": 320,
+            "Gul": 310,
+            "Bl\u00E5": 235,
+            "R\u00F6d": 235
+          }
+        },
+        "10": {
+          "par": 5,
+          "index": 7,
+          "distances": {
+            "Svart": 485,
+            "Vit": 465,
+            "Silver": 465,
+            "Gul": 455,
+            "Bl\u00E5": 455,
+            "R\u00F6d": 430
+          }
+        },
+        "11": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "Svart": 185,
+            "Vit": 160,
+            "Silver": 140,
+            "Gul": 140,
+            "Bl\u00E5": 120,
+            "R\u00F6d": 120
+          }
+        },
+        "12": {
+          "par": 4,
+          "index": 5,
+          "distances": {
+            "Svart": 400,
+            "Vit": 355,
+            "Silver": 355,
+            "Gul": 345,
+            "Bl\u00E5": 345,
+            "R\u00F6d": 295
+          }
+        },
+        "13": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "Svart": 435,
+            "Vit": 405,
+            "Silver": 370,
+            "Gul": 370,
+            "Bl\u00E5": 340,
+            "R\u00F6d": 315
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 17,
+          "distances": {
+            "Svart": 315,
+            "Vit": 305,
+            "Silver": 305,
+            "Gul": 290,
+            "Bl\u00E5": 290,
+            "R\u00F6d": 215
+          }
+        },
+        "15": {
+          "par": 3,
+          "index": 15,
+          "distances": {
+            "Svart": 185,
+            "Vit": 150,
+            "Silver": 150,
+            "Gul": 135,
+            "Bl\u00E5": 135,
+            "R\u00F6d": 100
+          }
+        },
+        "16": {
+          "par": 5,
+          "index": 13,
+          "distances": {
+            "Svart": 475,
+            "Vit": 450,
+            "Silver": 450,
+            "Gul": 440,
+            "Bl\u00E5": 405,
+            "R\u00F6d": 375
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "Svart": 405,
+            "Vit": 375,
+            "Silver": 350,
+            "Gul": 350,
+            "Bl\u00E5": 350,
+            "R\u00F6d": 315
+          }
+        },
+        "18": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "Svart": 390,
+            "Vit": 350,
+            "Silver": 350,
+            "Gul": 320,
+            "Bl\u00E5": 320,
+            "R\u00F6d": 290
+          }
+        }
+      }
+    }
+  ]
+}

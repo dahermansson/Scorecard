@@ -1,0 +1,179 @@
+{
+  "name": "T\u00E4llbergsbyarnas Golfklubb",
+  "id": "tallbergsbyarnas_golfklubb",
+  "courses": [
+    {
+      "name": "T\u00E4llbergsbyarnas GK 9-H\u00E5lsbana",
+      "id": "tallbergsbyarnas_gk_9-halsbana",
+      "par": 72,
+      "ratings": {
+        "men": {
+          "52": {
+            "cr": null,
+            "sr": null
+          },
+          "44": {
+            "cr": null,
+            "sr": null
+          }
+        },
+        "women": {
+          "52": {
+            "cr": null,
+            "sr": null
+          },
+          "44": {
+            "cr": null,
+            "sr": null
+          }
+        }
+      },
+      "holes": {
+        "1": {
+          "par": 4,
+          "index": 7,
+          "distances": {
+            "52": 296,
+            "44": 250
+          }
+        },
+        "2": {
+          "par": 4,
+          "index": 13,
+          "distances": {
+            "52": 254,
+            "44": 221
+          }
+        },
+        "3": {
+          "par": 5,
+          "index": 5,
+          "distances": {
+            "52": 436,
+            "44": 392
+          }
+        },
+        "4": {
+          "par": 3,
+          "index": 17,
+          "distances": {
+            "52": 115,
+            "44": 106
+          }
+        },
+        "5": {
+          "par": 4,
+          "index": 1,
+          "distances": {
+            "52": 361,
+            "44": 305
+          }
+        },
+        "6": {
+          "par": 5,
+          "index": 15,
+          "distances": {
+            "52": 411,
+            "44": 336
+          }
+        },
+        "7": {
+          "par": 4,
+          "index": 9,
+          "distances": {
+            "52": 300,
+            "44": 244
+          }
+        },
+        "8": {
+          "par": 4,
+          "index": 3,
+          "distances": {
+            "52": 319,
+            "44": 263
+          }
+        },
+        "9": {
+          "par": 3,
+          "index": 11,
+          "distances": {
+            "52": 133,
+            "44": 115
+          }
+        },
+        "10": {
+          "par": 4,
+          "index": 8,
+          "distances": {
+            "52": 296,
+            "44": 250
+          }
+        },
+        "11": {
+          "par": 4,
+          "index": 14,
+          "distances": {
+            "52": 254,
+            "44": 221
+          }
+        },
+        "12": {
+          "par": 5,
+          "index": 6,
+          "distances": {
+            "52": 436,
+            "44": 392
+          }
+        },
+        "13": {
+          "par": 3,
+          "index": 18,
+          "distances": {
+            "52": 115,
+            "44": 106
+          }
+        },
+        "14": {
+          "par": 4,
+          "index": 2,
+          "distances": {
+            "52": 361,
+            "44": 305
+          }
+        },
+        "15": {
+          "par": 5,
+          "index": 16,
+          "distances": {
+            "52": 411,
+            "44": 336
+          }
+        },
+        "16": {
+          "par": 4,
+          "index": 10,
+          "distances": {
+            "52": 300,
+            "44": 244
+          }
+        },
+        "17": {
+          "par": 4,
+          "index": 4,
+          "distances": {
+            "52": 319,
+            "44": 263
+          }
+        },
+        "18": {
+          "par": 3,
+          "index": 12,
+          "distances": {
+            "52": 133,
+            "44": 115
+          }
+        }
+      }
+    }
+  ]
+}
