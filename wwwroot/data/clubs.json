@@ -46,5 +46,15 @@
         "id": "oster_by_stenson"
       }
     ]
+  },
+  {
+    "name": "Idrefj\u00E4llens Golfklubb",
+    "id": "idrefjallens_golfklubb",
+    "courses": [
+      {
+        "name": "Idre",
+        "id": "idre"
+      }
+    ]
   }
 ]
